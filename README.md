@@ -16,6 +16,7 @@
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Go](#go)
+ - [Haskell](#haskell)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -320,6 +321,12 @@
 2 | [@adrg](https://github.com/adrg)/[**sysinfo**](https://github.com/adrg/sysinfo) | Provides system information |
 2 | [@adrg](https://github.com/adrg)/[**libvlc-go**](https://github.com/adrg/libvlc-go) | Golang bindings for libvlc |
 2 | [@adrg](https://github.com/adrg)/[**youtube-go**](https://github.com/adrg/youtube-go) | Search Youtube and get video information |
+### Haskell
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+6 | [@haskell-ro](https://github.com/haskell-ro)/[**haskell-workshop**](https://github.com/haskell-ro/haskell-workshop) | "Tweλve days of functional programming" Workshop @ ROSEdu Summer Workshops |
+4 | [@spyked](https://github.com/spyked)/[**negotiator**](https://github.com/spyked/negotiator) | automated negotiator with bounded rational agents |
+3 | [@spyked](https://github.com/spyked)/[**writer-monkey**](https://github.com/spyked/writer-monkey) | Markov text generator written in Haskell |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
