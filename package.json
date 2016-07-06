@@ -1,0 +1,42 @@
+{
+  "name": "made-in-romania",
+  "description": "A list of cool projects made in Romania.",
+  "keywords": [
+    "made",
+    "in",
+    "romania",
+    "a",
+    "list",
+    "of",
+    "cool",
+    "projects"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/made-in-romania.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/made-in-romania/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/made-in-romania#readme"
+}
