@@ -59,7 +59,13 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](undefined)"
+          "[C#](undefined)",
+          "[CSS](#css)",
+          "[HTML](#html)",
+          "[C](#c-1)",
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1410,6 +1416,444 @@
               "2",
               "[@myo](https://github.com/myo)/[**LeagueSharp**](https://github.com/myo/LeagueSharp)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@DanielPintilei](https://github.com/DanielPintilei)/[**Cake**](https://github.com/DanielPintilei/Cake)",
+              "Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code",
+              "[:arrow_upper_right:](https://danielpintilei.cf/Cake)"
+            ],
+            [
+              "12",
+              "[@DanielPintilei](https://github.com/DanielPintilei)/[**cake-atom-syntax**](https://github.com/DanielPintilei/cake-atom-syntax)",
+              "Yummy syntax theme for Atom",
+              "[:arrow_upper_right:](https://danielpintilei.cf/Cake)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@acasaprogramming](https://github.com/acasaprogramming)/[**Minimal-Portfolio-wi…**](https://github.com/acasaprogramming/Minimal-Portfolio-with-Bootstrap-3-and-Shuffle.js)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@OvidiuCaba](https://github.com/OvidiuCaba)/[**StatisticsRomania**](https://github.com/OvidiuCaba/StatisticsRomania)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@harababurel](https://github.com/harababurel)/[**homework**](https://github.com/harababurel/homework)",
+              "collection of lab projects and homework for university",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "59",
+              "[@clawoo](https://github.com/clawoo)/[**AsteroidsCocos2D-x**](https://github.com/clawoo/AsteroidsCocos2D-x)",
+              "An Asteroids game implemented in Cocos2D-x",
+              ""
+            ],
+            [
+              "32",
+              "[@clawoo](https://github.com/clawoo)/[**BreakoutCocos2D-x**](https://github.com/clawoo/BreakoutCocos2D-x)",
+              "",
+              "[:arrow_upper_right:](Porting of the How To Create A Breakout Game with Box2D and Cocos2D Tutorial by Ray Wenderlich to Cocos2D-x)"
+            ],
+            [
+              "32",
+              "[@clawoo](https://github.com/clawoo)/[**CuteAPultCocos2D-x**](https://github.com/clawoo/CuteAPultCocos2D-x)",
+              "A Cocos2D-x port of the How To Make a Catapult Shooting Game tutorial by Gustavo Ambrozio",
+              ""
+            ],
+            [
+              "30",
+              "[@catalinionita](https://github.com/catalinionita)/[**Ecryptfs-Tools-for-A…**](https://github.com/catalinionita/Ecryptfs-Tools-for-Android)",
+              "User space tools and libraries that enable ecryptfs functionality in Android",
+              ""
+            ],
+            [
+              "22",
+              "[@clawoo](https://github.com/clawoo)/[**SimpleGameCocos2D-x**](https://github.com/clawoo/SimpleGameCocos2D-x)",
+              "A porting of the popular Cocos2D tutorial by Ray Wenderlich to Cocos2D-x",
+              ""
+            ],
+            [
+              "21",
+              "[@clawoo](https://github.com/clawoo)/[**TileBasedGameCocos2D…**](https://github.com/clawoo/TileBasedGameCocos2D-x)",
+              "A porting of the Cocos2D tutorial by Ray Wenderlich to Cocos2D-x",
+              ""
+            ],
+            [
+              "21",
+              "[@clawoo](https://github.com/clawoo)/[**PongCocos2D-x**](https://github.com/clawoo/PongCocos2D-x)",
+              "A Cocos2D-x implementation of the classic game of Pong",
+              ""
+            ],
+            [
+              "16",
+              "[@clawoo](https://github.com/clawoo)/[**SimpleGamePart3Cocos…**](https://github.com/clawoo/SimpleGamePart3Cocos2D-x)",
+              "A porting of the popular Cocos2D tutorial Part 3 by Ray Wenderlich to Cocos2D-x",
+              ""
+            ],
+            [
+              "10",
+              "[@clawoo](https://github.com/clawoo)/[**SimpleGamePart2Cocos…**](https://github.com/clawoo/SimpleGamePart2Cocos2D-x)",
+              "A porting of the popular Cocos2D tutorial Part 2 by Ray Wenderlich to Cocos2D-x",
+              ""
+            ],
+            [
+              "9",
+              "[@bogdanm](https://github.com/bogdanm)/[**eLuaBrain**](https://github.com/bogdanm/eLuaBrain)",
+              "32-bit autonomous computer based on eLua",
+              "[:arrow_upper_right:](http://eluabrain.blogspot.com)"
+            ],
+            [
+              "9",
+              "[@vpalos](https://github.com/vpalos)/[**loomiere**](https://github.com/vpalos/loomiere)",
+              "High-performance pseudo-streaming server.",
+              ""
+            ],
+            [
+              "5",
+              "[@lexmazter](https://github.com/lexmazter)/[**dellstreak5-kernel-3…**](https://github.com/lexmazter/dellstreak5-kernel-3.4)",
+              "New kernel for Dell Streak 5, based on CAF MSM 3.4",
+              ""
+            ],
+            [
+              "5",
+              "[@vpalos](https://github.com/vpalos)/[**lua-ttyrant**](https://github.com/vpalos/lua-ttyrant)",
+              "A Lua binding for the TokyoTyrant (C) API.",
+              ""
+            ],
+            [
+              "4",
+              "[@carliv](https://github.com/carliv)/[**device_elephone_p600…**](https://github.com/carliv/device_elephone_p6000)",
+              "Device tree folder for ELEPHONE P6000 with new mt6732 (64Bit) platform.",
+              ""
+            ],
+            [
+              "4",
+              "[@carliv](https://github.com/carliv)/[**carliv_touch_recover…**](https://github.com/carliv/carliv_touch_recovery)",
+              "[End of life - Discontinued] A custom CWM based, full touch Recovery.",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/development/port-carliv-touch-recovery-v3-0-porting-t2970150)"
+            ],
+            [
+              "4",
+              "[@carliv](https://github.com/carliv)/[**carliv_touch_recover…**](https://github.com/carliv/carliv_touch_recovery_new)",
+              "CWM based recovery updated to build in cm 12.1 - cm 13 - aicp lp5.1 - aicp mm6.0 source tree.",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/software/recovery-carliv-touch-recovery-v5-1-t3389290)"
+            ],
+            [
+              "3",
+              "[@virtosubogdan](https://github.com/virtosubogdan)/[**ProiectPRC1**](https://github.com/virtosubogdan/ProiectPRC1)",
+              "laboratory project,c",
+              "[:arrow_upper_right:](http://labs.cs.upt.ro/labs/sprc/html/index.html)"
+            ],
+            [
+              "3",
+              "[@AndreiDuma](https://github.com/AndreiDuma)/[**arch-battery**](https://github.com/AndreiDuma/arch-battery)",
+              "Battery status utility for Fujitsu Esprimo Mobile v6555 & Arch Linux.",
+              ""
+            ],
+            [
+              "3",
+              "[@clawoo](https://github.com/clawoo)/[**TileBasedGamePart2Co…**](https://github.com/clawoo/TileBasedGamePart2Cocos2D-x)",
+              "A porting of the Cocos2D tutorial part 2 by Ray Wenderlich to Cocos2D-x",
+              ""
+            ],
+            [
+              "2",
+              "[@popdog123](https://github.com/popdog123)/[**hardware_qcom_gps**](https://github.com/popdog123/hardware_qcom_gps)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@razvand](https://github.com/razvand)/[**snippets**](https://github.com/razvand/snippets)",
+              "Snippets, scripts, config files",
+              "[:arrow_upper_right:](http://swarm.cs.pub.ro/gitweb/?p=razvan-code.git;a=summary)"
+            ],
+            [
+              "2",
+              "[@razvand](https://github.com/razvand)/[**osss**](https://github.com/razvand/osss)",
+              "Open Source Summer School",
+              ""
+            ],
+            [
+              "2",
+              "[@carliv](https://github.com/carliv)/[**carliv_mkbootimg_too…**](https://github.com/carliv/carliv_mkbootimg_tools)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dapetcu21](https://github.com/dapetcu21)/[**dsra**](https://github.com/dapetcu21/dsra)",
+              "Dead Simple Remote Audio - Real-time audio streaming / remote speakers",
+              ""
+            ],
+            [
+              "2",
+              "[@clawoo](https://github.com/clawoo)/[**CCRenderTextureCocos…**](https://github.com/clawoo/CCRenderTextureCocos2D-x)",
+              "Create Dynamic Textures with CCRenderTexture in Cocos2D-x sample project",
+              ""
+            ],
+            [
+              "2",
+              "[@carliv](https://github.com/carliv)/[**device_zopo_zp999**](https://github.com/carliv/device_zopo_zp999)",
+              "Device tree folder for ZOPO ZP999 with new mt6595 platform.",
+              ""
+            ],
+            [
+              "2",
+              "[@clawoo](https://github.com/clawoo)/[**TileBasedGamePart3Co…**](https://github.com/clawoo/TileBasedGamePart3Cocos2D-x)",
+              "A porting of the Cocos2D tutorial by GeekAndDad.com to Cocos2D-x. Work on progress.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "58",
+              "[@rodan](https://github.com/rodan)/[**ds3231**](https://github.com/rodan/ds3231)",
+              "arduino library for DS3231 RTC",
+              "[:arrow_upper_right:](http://www.maxim-ic.com/datasheet/index.mvp/id/4627)"
+            ],
+            [
+              "12",
+              "[@jaruba](https://github.com/jaruba)/[**PowderNPAPI**](https://github.com/jaruba/PowderNPAPI)",
+              "(deprecated) Peerflix interface for the browser. (npapi plugin)",
+              ""
+            ],
+            [
+              "9",
+              "[@cprogrammer1994](https://github.com/cprogrammer1994)/[**Python-ComputeShader**](https://github.com/cprogrammer1994/Python-ComputeShader)",
+              "OpenGL 4.3 required",
+              ""
+            ],
+            [
+              "8",
+              "[@rodan](https://github.com/rodan)/[**ds3234**](https://github.com/rodan/ds3234)",
+              "arduino library for DS3234 RTC",
+              "[:arrow_upper_right:](http://www.maxim-ic.com/datasheet/index.mvp/id/4051)"
+            ],
+            [
+              "7",
+              "[@cprogrammer1994](https://github.com/cprogrammer1994)/[**ModernGL**](https://github.com/cprogrammer1994/ModernGL)",
+              "modern OpenGL binding for Python",
+              "[:arrow_upper_right:](https://pythonhosted.org/ModernGL/)"
+            ],
+            [
+              "6",
+              "[@phaser](https://github.com/phaser)/[**phOS**](https://github.com/phaser/phOS)",
+              "A small OS for me to play and test ideas",
+              ""
+            ],
+            [
+              "6",
+              "[@wefgef](https://github.com/wefgef)/[**TopCoder**](https://github.com/wefgef/TopCoder)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@xfurry](https://github.com/xfurry)/[**ScriptDev2_2010**](https://github.com/xfurry/ScriptDev2_2010)",
+              "Old SD2 scripts from Spidernet",
+              ""
+            ],
+            [
+              "4",
+              "[@rusucosmin](https://github.com/rusucosmin)/[**cplusplus**](https://github.com/rusucosmin/cplusplus)",
+              "my cpp files for different problems or contests",
+              ""
+            ],
+            [
+              "3",
+              "[@xfurry](https://github.com/xfurry)/[**custom_sd2**](https://github.com/xfurry/custom_sd2)",
+              "",
+              "[:arrow_upper_right:](Read README file before you modify anything!)"
+            ],
+            [
+              "3",
+              "[@alzwded](https://github.com/alzwded)/[**AltTabber**](https://github.com/alzwded/AltTabber)",
+              "A multi monitor friendly alternative for Windows (r) 7's Alt-Tab that's also cool for heavy keyboard users",
+              ""
+            ],
+            [
+              "3",
+              "[@mihaibivol](https://github.com/mihaibivol)/[**Xapian-Testing**](https://github.com/mihaibivol/Xapian-Testing)",
+              "Testing repo for Xapian Dynamic Snippets",
+              ""
+            ],
+            [
+              "3",
+              "[@rusucosmin](https://github.com/rusucosmin)/[**Hai-la-Olimpiada**](https://github.com/rusucosmin/Hai-la-Olimpiada)",
+              "Some of the problems and sources discussed",
+              ""
+            ],
+            [
+              "2",
+              "[@rodan](https://github.com/rodan)/[**honeywell_hsc_ssc_i2…**](https://github.com/rodan/honeywell_hsc_ssc_i2c)",
+              "avr library for honeywell hsc and ssc series pressure sensors (i2c version)",
+              ""
+            ],
+            [
+              "2",
+              "[@cprogrammer1994](https://github.com/cprogrammer1994)/[**Process-Manipulation**](https://github.com/cprogrammer1994/Process-Manipulation)",
+              "Process Manipulation from Python",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@badu](https://github.com/badu)/[**SparkComponents**](https://github.com/badu/SparkComponents)",
+              "Missing Spark Components on Flex SDK 4.6.0",
+              "[:arrow_upper_right:](http://www.badu.ro)"
+            ],
+            [
+              "6",
+              "[@cosmindolha](https://github.com/cosmindolha)/[**ParticleDesigner**](https://github.com/cosmindolha/ParticleDesigner)",
+              "Particle Designer for the Starling framework (ActionScript 3)",
+              ""
+            ],
+            [
+              "5",
+              "[@cipriancaba](https://github.com/cipriancaba)/[**flash-console**](https://github.com/cipriancaba/flash-console)",
+              "flash-console fork from https://code.google.com/p/flash-console/",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "430",
+              "[@rif](https://github.com/rif)/[**spark**](https://github.com/rif/spark)",
+              "Emergency web server",
+              ""
+            ],
+            [
+              "54",
+              "[@rif](https://github.com/rif)/[**lov3lyme**](https://github.com/rif/lov3lyme)",
+              "Photo contest website",
+              ""
+            ],
+            [
+              "12",
+              "[@rif](https://github.com/rif)/[**cache2go**](https://github.com/rif/cache2go)",
+              "Simple go object caching library with expiration capabilities",
+              ""
+            ],
+            [
+              "9",
+              "[@rif](https://github.com/rif)/[**gmail2go**](https://github.com/rif/gmail2go)",
+              "Simple gmail multiple account mail notification command line",
+              ""
+            ],
+            [
+              "3",
+              "[@adrg](https://github.com/adrg)/[**xdg**](https://github.com/adrg/xdg)",
+              "Go implementation of the XDG Base Directory Specification",
+              ""
+            ],
+            [
+              "2",
+              "[@adrg](https://github.com/adrg)/[**sysinfo**](https://github.com/adrg/sysinfo)",
+              "Provides system information",
+              ""
+            ],
+            [
+              "2",
+              "[@adrg](https://github.com/adrg)/[**libvlc-go**](https://github.com/adrg/libvlc-go)",
+              "Golang bindings for libvlc",
+              ""
+            ],
+            [
+              "2",
+              "[@adrg](https://github.com/adrg)/[**youtube-go**](https://github.com/adrg/youtube-go)",
+              "Search Youtube and get video information",
               ""
             ]
           ]
