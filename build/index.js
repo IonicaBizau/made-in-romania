@@ -37,7 +37,7 @@ oneByOne(bindy(languages, (cLang, done) => {
         result.push({ h3: ucFirst(c.lang) });
         result.push({
             table: {
-                headers: ["Name", "Description", "🌍"]
+                       headers: [":star2", "Name", "Description", "🌍"]
               , rows: c.repos.map(cRepo => {
 
                     if (cRepo.owner.login.length > 20) {
@@ -47,19 +47,24 @@ oneByOne(bindy(languages, (cLang, done) => {
                     if (cRepo.name.length > 20) {
                         cRepo.name = cRepo.name.substring(0, 20) + "…";
                     }
+                    cRepo.description = cRepo.description || "";
+                    if (cRepo.description.length > 100) {
+                        cRepo.description = cRepo.description.substring(0, 100) + "…";
+                    }
 
                     let info = [
                         `[@${cRepo.owner.login}](${cRepo.owner.html_url})/[**${cRepo.name}**](${cRepo.html_url})`
                       , cRepo.description || ""
                       , cRepo.homepage || ""
-                      , `${cRepo.stargazers_count} :star2:`
+                      , `${cRepo.stargazers_count}`
                     ]
 
                     return [
-                        info[3] + " " + info[0]
+                        info[3]
+                      , info[0]
                       , info[1]
-                      , cRepo.homepage && `[:arrow_upper_right:](${cRepo.homepage})` || ""
-                    ]
+                      , info[2] && `[:arrow_upper_right:](${info[2]})` || ""
+                    ];
                 })
             }
         });
@@ -73,3 +78,4 @@ oneByOne(bindy(languages, (cLang, done) => {
 
     wJson(pack, packObj);
 });
+
