@@ -75,7 +75,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -3466,6 +3467,27 @@
               "11",
               "[@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift)",
               "Parse, iOS, Swift, MapKit",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@nlp-unibuc](https://github.com/nlp-unibuc)/[**nlp-unibuc-website**](https://github.com/nlp-unibuc/nlp-unibuc-website)",
+              "Source code for generating our static website.",
               ""
             ]
           ]

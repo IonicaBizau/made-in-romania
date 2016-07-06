@@ -26,6 +26,7 @@
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
+ - [TeX](#tex)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -602,6 +603,10 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift) | Parse, iOS, Swift, MapKit |
+### TeX
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+3 | [@nlp-unibuc](https://github.com/nlp-unibuc)/[**nlp-unibuc-website**](https://github.com/nlp-unibuc/nlp-unibuc-website) | Source code for generating our static website. |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
