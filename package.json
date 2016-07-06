@@ -71,7 +71,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -3198,6 +3199,189 @@
               "2",
               "[@mgax](https://github.com/mgax)/[**hgPatcher**](https://github.com/mgax/hgPatcher)",
               "Repackaging of Mercurial's patch code",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "128",
+              "[@vitalie](https://github.com/vitalie)/[**webshot**](https://github.com/vitalie/webshot)",
+              "Captures a web page as a screenshot.",
+              ""
+            ],
+            [
+              "115",
+              "[@ihoka](https://github.com/ihoka)/[**viewtastic**](https://github.com/ihoka/viewtastic)",
+              "Presenter plugin for Ruby on Rails",
+              ""
+            ],
+            [
+              "106",
+              "[@icebreaker](https://github.com/icebreaker)/[**girlfriend**](https://github.com/icebreaker/girlfriend)",
+              "Girlfriend is an installable, upgradable and removeable girlfriend.",
+              ""
+            ],
+            [
+              "89",
+              "[@viseztrance](https://github.com/viseztrance)/[**rails-sitemap**](https://github.com/viseztrance/rails-sitemap)",
+              "A simple ruby on rails sitemap generator",
+              ""
+            ],
+            [
+              "24",
+              "[@andreimaxim](https://github.com/andreimaxim)/[**guard-unicorn**](https://github.com/andreimaxim/guard-unicorn)",
+              "Guard::Unicorn automatically restarts the Unicorn server using Guard.",
+              ""
+            ],
+            [
+              "16",
+              "[@ducknorris](https://github.com/ducknorris)/[**rack-env-notifier**](https://github.com/ducknorris/rack-env-notifier)",
+              "Middleware that displays a custom notification for every html page. Designed to work both in production and in development.",
+              "[:arrow_upper_right:](http://ducknorris.github.io/rack-env-notifier)"
+            ],
+            [
+              "15",
+              "[@maria](https://github.com/maria)/[**foregit**](https://github.com/maria/foregit)",
+              "An interface between Foreman and Git",
+              ""
+            ],
+            [
+              "13",
+              "[@sergiutruta](https://github.com/sergiutruta)/[**blogpub**](https://github.com/sergiutruta/blogpub)",
+              "social networking framework with multi user blogs, developed in Rails 2.0.2 completely RESTful",
+              "[:arrow_upper_right:](http://blogpub.ro)"
+            ],
+            [
+              "9",
+              "[@viseztrance](https://github.com/viseztrance)/[**website_screenshot**](https://github.com/viseztrance/website_screenshot)",
+              "Takes screenshots of websites",
+              ""
+            ],
+            [
+              "8",
+              "[@icebreaker](https://github.com/icebreaker)/[**sniknej**](https://github.com/icebreaker/sniknej)",
+              " Sniknej is a standalone front-end for Jenkins.",
+              ""
+            ],
+            [
+              "6",
+              "[@sergiutruta](https://github.com/sergiutruta)/[**polyglot**](https://github.com/sergiutruta/polyglot)",
+              "simple localization plugin for rails application, based on yml files",
+              "[:arrow_upper_right:](http://akasha-labs.ro/polyglot)"
+            ],
+            [
+              "5",
+              "[@cristianbica](https://github.com/cristianbica)/[**rails-bootstrap-boil…**](https://github.com/cristianbica/rails-bootstrap-boilerplate)",
+              "Template rails app with bootstrap, devise, cancan",
+              ""
+            ],
+            [
+              "5",
+              "[@viseztrance](https://github.com/viseztrance)/[**website_screenshot_s…**](https://github.com/viseztrance/website_screenshot_service)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@ihoka](https://github.com/ihoka)/[**friendly-attributes**](https://github.com/ihoka/friendly-attributes)",
+              "Extend your ActiveRecord models with attributes dynamically, without any schema migrations.",
+              "[:arrow_upper_right:](http://github.com/ihoka/friendly-attributes)"
+            ],
+            [
+              "5",
+              "[@mtarnovan](https://github.com/mtarnovan)/[**romanianvalidators**](https://github.com/mtarnovan/romanianvalidators)",
+              "Collection of validations for Cod Numeric Personal (CNP), Cod de identificare fiscală (CIF) and IBAN (only Romanian format, as published by Romanian National Bank",
+              ""
+            ],
+            [
+              "5",
+              "[@TBD](https://github.com/TBD)/[**motion-sparkinspecto…**](https://github.com/TBD/motion-sparkinspector)",
+              "Use SparkInspector in RubyMotion apps",
+              ""
+            ],
+            [
+              "4",
+              "[@icebreaker](https://github.com/icebreaker)/[**rbGLox**](https://github.com/icebreaker/rbGLox)",
+              "ruby-opengl and ruby-glfw wrapper suitable for rapid prototyping",
+              ""
+            ],
+            [
+              "4",
+              "[@zmack](https://github.com/zmack)/[**ruby-things**](https://github.com/zmack/ruby-things)",
+              "Random ruby things",
+              ""
+            ],
+            [
+              "4",
+              "[@TBD](https://github.com/TBD)/[**smarty**](https://github.com/TBD/smarty)",
+              "info noise sweeper",
+              ""
+            ],
+            [
+              "3",
+              "[@ihoka](https://github.com/ihoka)/[**encoding-dot-com**](https://github.com/ihoka/encoding-dot-com)",
+              "Ruby library to wrap the Encoding.com API",
+              ""
+            ],
+            [
+              "3",
+              "[@miphe](https://github.com/miphe)/[**x-ruby-assignment**](https://github.com/miphe/x-ruby-assignment)",
+              "Ruby assignment for front-end ruby developers",
+              ""
+            ],
+            [
+              "2",
+              "[@TBD](https://github.com/TBD)/[**alfred-extensions**](https://github.com/TBD/alfred-extensions)",
+              "TBD's Alfred App Extensions",
+              "[:arrow_upper_right:](http://plugins.ro)"
+            ],
+            [
+              "2",
+              "[@andrei4002](https://github.com/andrei4002)/[**facebook-buttons**](https://github.com/andrei4002/facebook-buttons)",
+              "Facebook buttons made using Compass/SCSS",
+              ""
+            ],
+            [
+              "2",
+              "[@andrei4002](https://github.com/andrei4002)/[**plastic-buttons**](https://github.com/andrei4002/plastic-buttons)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mtarnovan](https://github.com/mtarnovan)/[**geocode_service**](https://github.com/mtarnovan/geocode_service)",
+              "Provides a minimalistic web service to map IPs to countries",
+              ""
+            ],
+            [
+              "2",
+              "[@cristianbica](https://github.com/cristianbica)/[**active_job-query**](https://github.com/cristianbica/active_job-query)",
+              "ActiveJob Query API",
+              ""
+            ],
+            [
+              "2",
+              "[@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies)",
+              "First xbuddies Rails app attempt",
+              ""
+            ],
+            [
+              "2",
+              "[@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light)",
+              "",
               ""
             ]
           ]
