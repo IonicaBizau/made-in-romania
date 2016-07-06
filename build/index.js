@@ -10,30 +10,11 @@ const madeIn = require("made-in")
     , ucFirst = require("uc-first")
     ;
 
-oneByOne(bindy(languages, (cLang, done) => {
-    console.log(`Fetching ${cLang} projects.`);
-    madeIn("Romania", {
-        token: process.env.GH_TOKEN
-      , language: cLang
-    }, (err, repos) => {
-        if (err) { return done(err); }
-        console.log(`Fetced ${repos.length} projects. Waiting 80 seconds.`);
-        let left = 80
-          , interval = setInterval(() => {
-                --left;
-                console.log(left);
-            }, 1000)
-          ;
+let _data = [];
 
-        setTimeout(() => {
-            clearInterval(interval);
-            done(null, { lang: cLang, repos: repos });
-        }, 80 * 1000);
-    });
-}), (err, data) => {
-    if (err) { return console.error(err); }
+function updatePack() {
     let result = [];
-    data.forEach(c => {
+    _data.forEach(c => {
         result.push({ h3: ucFirst(c.lang) });
         result.push({
             table: {
@@ -50,8 +31,8 @@ oneByOne(bindy(languages, (cLang, done) => {
 
                     cRepo.description = cRepo.description || "";
                     cRepo.description = cRepo.description.split(" ").map(c => {
-                        if (c.length > 100) {
-                            c = c.substring(0, 100) + "…";
+                        if (c.length > 40) {
+                            c = c.substring(0, 40) + "…";
                         }
                         return c;
                     }).join(" ");
@@ -81,5 +62,32 @@ oneByOne(bindy(languages, (cLang, done) => {
     packObj.blah.description = result;
 
     wJson(pack, packObj);
+}
+
+oneByOne(bindy(languages, (cLang, done) => {
+    console.log(`Fetching ${cLang} projects.`);
+    madeIn("Romania", {
+        token: process.env.GH_TOKEN
+      , language: cLang
+    }, (err, repos) => {
+        if (err) { return done(err); }
+        console.log(`Fetced ${repos.length} projects. Waiting 60 seconds.`);
+        let left = 60
+          , interval = setInterval(() => {
+                --left;
+                console.log(left);
+            }, 1000)
+          ;
+
+        setTimeout(() => {
+            clearInterval(interval);
+            _data.push({ lang: cLang, repos: repos });
+            updatePack();
+            done();
+        }, 60 * 1000);
+    });
+}), (err, data) => {
+    if (err) { return console.error(err); }
+    console.log("Done");
 });
 
