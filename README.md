@@ -25,6 +25,7 @@
  - [Ruby](#ruby)
  - [Scala](#scala)
  - [Shell](#shell)
+ - [Swift](#swift)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -597,6 +598,10 @@
 11 | [@noxtras](https://github.com/noxtras)/[**bashserver**](https://github.com/noxtras/bashserver) | Bash web server with the use of netcat. It supports file downloads, it servers static html, PHP, Python and binary files with arguments (GET). It checks for 404 errors and it keeps a server log. |
 11 | [@iugamarian](https://github.com/iugamarian)/[**raspberrypisetup**](https://github.com/iugamarian/raspberrypisetup) | Setup scripts to personalize Raspbian and Arch for my needs |
 3 | [@StancuFlorin](https://github.com/StancuFlorin)/[**Apache-Helper**](https://github.com/StancuFlorin/Apache-Helper) | Helper code for creating new sites and change their default DocumentRoot. |
+### Swift
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+11 | [@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift) | Parse, iOS, Swift, MapKit |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].

@@ -74,7 +74,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -3444,6 +3445,27 @@
               "3",
               "[@StancuFlorin](https://github.com/StancuFlorin)/[**Apache-Helper**](https://github.com/StancuFlorin/Apache-Helper)",
               "Helper code for creating new sites and change their default DocumentRoot.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "11",
+              "[@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift)",
+              "Parse, iOS, Swift, MapKit",
               ""
             ]
           ]
