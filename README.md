@@ -5,7 +5,7 @@
 
 > A list of cool projects made in Romania.
 
-### Javascript
+### JavaScript
 :star2 | Name | Description | 🌍
 --- | --- | --- | ---
 3758 | [@IonicaBizau](https://github.com/IonicaBizau)/[**git-stats**](https://github.com/IonicaBizau/git-stats) | :four_leaf_clover: Local git statistics including GitHub-like contributions calendars. |
@@ -154,6 +154,61 @@
 2 | [@piatra](https://github.com/piatra)/[**webpayments-marketpl…**](https://github.com/piatra/webpayments-marketplace) | implementation of a Web Payments marketplace |
 2 | [@piatra](https://github.com/piatra)/[**dragDrop**](https://github.com/piatra/dragDrop) | drag and drop in browser with upload to nodejs server |
 2 | [@balajmarius](https://github.com/balajmarius)/[**draw-pixel-art**](https://github.com/balajmarius/draw-pixel-art) | :pencil2: Draw Pixel art and convert to box-shadow |
+### Java
+:star2 | Name | Description | 🌍
+--- | --- | --- | ---
+472 | [@alexo](https://github.com/alexo)/[**wro4j**](https://github.com/alexo/wro4j) | New project location is:https://github.com/wro4j/wro4j |
+440 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
+209 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on … |
+88 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
+64 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
+55 | [@rombert](https://github.com/rombert)/[**desktop-maven-notifi…**](https://github.com/rombert/desktop-maven-notifier) | Desktop Notifier for Maven |
+36 | [@eugenp](https://github.com/eugenp)/[**spring-security-oaut…**](https://github.com/eugenp/spring-security-oauth) |  |
+34 | [@eugenp](https://github.com/eugenp)/[**spring-security-regi…**](https://github.com/eugenp/spring-security-registration) |  |
+24 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
+21 | [@rombert](https://github.com/rombert)/[**Maven-Recipe--RPM-Pa…**](https://github.com/rombert/Maven-Recipe--RPM-Package) | Maven Recipe: RPM Package | [:arrow_upper_right:](http://rombertw.wordpress.com/2010/05/20/maven-recipe-delivering-applications-as-rpms/)
+19 | [@octa-george](https://github.com/octa-george)/[**Android-GreenDao-Sam…**](https://github.com/octa-george/Android-GreenDao-Sample) | working with data stored in SQLite using greenDao |
+18 | [@rcosnita](https://github.com/rcosnita)/[**eCommerce-RBAC**](https://github.com/rcosnita/eCommerce-RBAC) | This project intends to provide a security system implementation fully compliant with RBAC standard.… |
+16 | [@MihaiBalint](https://github.com/MihaiBalint)/[**TimisoaraPublicTrans…**](https://github.com/MihaiBalint/TimisoaraPublicTransport) | An Android App that scrapes public transport information (times/connections) and shows it on your An… | [:arrow_upper_right:](http://mihaibalint.github.com/TimisoaraPublicTransport)
+15 | [@devsprint](https://github.com/devsprint)/[**jersey-netty-contain…**](https://github.com/devsprint/jersey-netty-container) | Netty based container implementation for Jersey |
+15 | [@eugenp](https://github.com/eugenp)/[**reddit-app**](https://github.com/eugenp/reddit-app) |  |
+11 | [@rombert](https://github.com/rombert)/[**gwt-dispatch-sample**](https://github.com/rombert/gwt-dispatch-sample) | Sample GWT-dispatch project | [:arrow_upper_right:](http://code.google.com/p/gwt-dispatch/wiki/GettingStarted)
+11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**University-Managemen…**](https://github.com/cosminstefanxp/University-Management-System) | The project is a huge one and consists of a university management system, that handles everything fr… |
+11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**Restaurant-Table-Ord…**](https://github.com/cosminstefanxp/Restaurant-Table-Order-Management-Demo) | The project consists in an Android application that can be used by employees in a restaurant to hand… |
+10 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
+10 | [@rombert](https://github.com/rombert)/[**Maven-Recipe---GWT-d…**](https://github.com/rombert/Maven-Recipe---GWT-development-profile) | Sample code for http://rombertw.wordpress.com/2011/03/05/maven-recipe-gwt-development-profile/ | [:arrow_upper_right:](http://rombertw.wordpress.com/2011/03/05/maven-recipe-gwt-development-profile/)
+10 | [@eugenp](https://github.com/eugenp)/[**java-stackexchange**](https://github.com/eugenp/java-stackexchange) | Java Stackexchange 2.1 API |
+8 | [@eugenp](https://github.com/eugenp)/[**selenium**](https://github.com/eugenp/selenium) | selenium |
+6 | [@Murii](https://github.com/Murii)/[**Tilo-game-framework**](https://github.com/Murii/Tilo-game-framework) | Tilo is a game framework inspired by Love made in Libgdx which can run on desktop,android and ios. |
+6 | [@kovacshuni](https://github.com/kovacshuni)/[**koauth-samples**](https://github.com/kovacshuni/koauth-samples) | Example applications for how to use the KOAuth library. |
+5 | [@aismail](https://github.com/aismail)/[**AndroAR**](https://github.com/aismail/AndroAR) | Android Augmented Reality, based on the AndroRemote project |
+5 | [@aismail](https://github.com/aismail)/[**PredatorWS**](https://github.com/aismail/PredatorWS) | Predator Web Service |
+4 | [@aismail](https://github.com/aismail)/[**mrts**](https://github.com/aismail/mrts) | Map-Reduce for Time Series |
+4 | [@devsprint](https://github.com/devsprint)/[**reactive-cassandra**](https://github.com/devsprint/reactive-cassandra) | Demonstrates how to build a reactive service on top of Cassandra. |
+3 | [@eugenp](https://github.com/eugenp)/[**spring-hypermedia-ap…**](https://github.com/eugenp/spring-hypermedia-api) |  |
+3 | [@rombert](https://github.com/rombert)/[**projecteuler**](https://github.com/rombert/projecteuler) | Solutions for project euler | [:arrow_upper_right:](http://projecteuler.net/)
+3 | [@devsprint](https://github.com/devsprint)/[**addressbook**](https://github.com/devsprint/addressbook) | REST Service that use Protocol Buffer data representation and Netty as transport. |
+3 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**Tic-Tac-Toe-Android-…**](https://github.com/BoldijarPaul/Tic-Tac-Toe-Android-Live-Wallpaper) | This is a simple Tic Tac Toe game made using libGDX as a live wallpaper for android. |
+3 | [@alexbuicescu](https://github.com/alexbuicescu)/[**android-workshop**](https://github.com/alexbuicescu/android-workshop) |  |
+3 | [@eugenp](https://github.com/eugenp)/[**stackexchange2twitte…**](https://github.com/eugenp/stackexchange2twitter) | Tweets the Top Questions from various StackExchange Q&A Sites |
+3 | [@alexo](https://github.com/alexo)/[**pngtastic**](https://github.com/alexo/pngtastic) | Github mirror of pngtastic java open source project (slightly modified - using maven build system in… | [:arrow_upper_right:](http://code.google.com/p/pngtastic/)
+3 | [@aismail](https://github.com/aismail)/[**KinectHacking**](https://github.com/aismail/KinectHacking) | Boilerplate code for getting started with Kinect on Java and Linux |
+3 | [@octa-george](https://github.com/octa-george)/[**Android-Twitter-Logi…**](https://github.com/octa-george/Android-Twitter-Login-Sample) | using twitter4j and gradle |
+2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
+2 | [@alexo](https://github.com/alexo)/[**SAML-2.0**](https://github.com/alexo/SAML-2.0) | A mirror of Shibboleth projects svn repository containing SAML 2.0 implementations | [:arrow_upper_right:](http://shibboleth.internet2.edu)
+2 | [@rcosnita](https://github.com/rcosnita)/[**rdbms-reduce**](https://github.com/rcosnita/rdbms-reduce) | This is a distributed reduce exercise for a scenario when resource ids are stored independently of r… |
+2 | [@alexo](https://github.com/alexo)/[**diffable**](https://github.com/alexo/diffable) | Unofficial mirror of diffable project | [:arrow_upper_right:](http://code.google.com/p/diffable)
+2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**itfest-2015-android-…**](https://github.com/BoldijarPaul/itfest-2015-android-app) | ITFest 2015 ,  7/11/2015 Hackathon , mobile. |
+2 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**Weazzer**](https://github.com/cosminstefanxp/Weazzer) | An Android weather app, that suggests what type of clothes should be worn, based on the current weat… |
+2 | [@rombert](https://github.com/rombert)/[**email-sender**](https://github.com/rombert/email-sender) | Dependency Injection showcase - Email Sender App | [:arrow_upper_right:](http://www.slideshare.net/rombertw/dependency-injection-spring-guice-osgi)
+2 | [@Murii](https://github.com/Murii)/[**FlixelForLibgdx**](https://github.com/Murii/FlixelForLibgdx) | Port of Flixel 2.55 for Libgdx (version >= 1.0 && <= 1.5)  | [:arrow_upper_right:](https://twitter.com/Murii5)
+2 | [@rombert](https://github.com/rombert)/[**mantis-project-migra…**](https://github.com/rombert/mantis-project-migrator) |  |
+2 | [@eugenp](https://github.com/eugenp)/[**cloudControl**](https://github.com/eugenp/cloudControl) | simple webapp to control cloud machine lifecycle |
+2 | [@rombert](https://github.com/rombert)/[**Maven-Recipe---Aggre…**](https://github.com/rombert/Maven-Recipe---Aggregate-Jar) | This project shows how to build a single jar out of all the jar-packaged modules. | [:arrow_upper_right:](http://rombertw.wordpress.com/2010/05/14/maven-recipe-building-an-aggregate-jar/)
+2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
+2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
+2 | [@alexo](https://github.com/alexo)/[**less4java**](https://github.com/alexo/less4java) | A mirror of the less4java project hosted on google code | [:arrow_upper_right:](http://code.google.com/p/less4java)
+2 | [@mihaisoloi](https://github.com/mihaisoloi)/[**HadoopTDG**](https://github.com/mihaisoloi/HadoopTDG) | Hadoop The Definitive Guide |
 
 ## :cloud: Installation
 
