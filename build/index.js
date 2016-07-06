@@ -8,17 +8,23 @@ const madeIn = require("made-in")
     , wJson = require("w-json")
     , packPath = require("package-json-path")
     , ucFirst = require("uc-first")
+    , anchors = require("./anchors")
     ;
 
 let _data = [];
 
 function updatePack() {
+
+    let contents = [];
     let result = [];
+
     _data.forEach(c => {
+        if (!c.repos.length) { return; }
+        contents.push(`[${c.lang}](${anchors[c.lang]})`);
         result.push({ h3: ucFirst(c.lang) });
         result.push({
             table: {
-                       headers: [":star2:", "Name", "Description", "🌍"]
+               headers: [":star2:", "Name", "Description", "🌍"]
               , rows: c.repos.map(cRepo => {
 
                     if (cRepo.owner.login.length > 20) {
@@ -55,11 +61,14 @@ function updatePack() {
         });
     });
 
+    result.unshift({ ul: contents });
+    result.unshift({ h2: "Contents" });
+
     let pack = packPath(`${__dirname}/../`)
       , packObj = rJson(pack)
       ;
 
-    packObj.blah.description = result;
+    packObj.blah.installation = result;
 
     wJson(pack, packObj);
 }
@@ -79,10 +88,11 @@ oneByOne(bindy(languages, (cLang, done) => {
             }, 1000)
           ;
 
+        _data.push({ lang: cLang, repos: repos });
+        updatePack();
+
         setTimeout(() => {
             clearInterval(interval);
-            _data.push({ lang: cLang, repos: repos });
-            updatePack();
             done();
         }, 60 * 1000);
     });
