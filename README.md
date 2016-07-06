@@ -27,6 +27,7 @@
  - [Shell](#shell)
  - [Swift](#swift)
  - [TeX](#tex)
+ - [VimL](#viml)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -607,6 +608,20 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@nlp-unibuc](https://github.com/nlp-unibuc)/[**nlp-unibuc-website**](https://github.com/nlp-unibuc/nlp-unibuc-website) | Source code for generating our static website. |
+### VimL
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+103 | [@Bogdanp](https://github.com/Bogdanp)/[**browser-connect.vim**](https://github.com/Bogdanp/browser-connect.vim) | Live browser interaction for VIM. |
+72 | [@mihaifm](https://github.com/mihaifm)/[**vimpanel**](https://github.com/mihaifm/vimpanel) | A modern side panel for Vim |
+50 | [@mihaifm](https://github.com/mihaifm)/[**bufstop**](https://github.com/mihaifm/bufstop) | Fast and efficient buffer switching for Vim |
+44 | [@Bogdanp](https://github.com/Bogdanp)/[**rbrepl.vim**](https://github.com/Bogdanp/rbrepl.vim) | VIM plugin that allows you to run a Ruby REPL inside a VIM buffer. |
+24 | [@Bogdanp](https://github.com/Bogdanp)/[**quicksilver.vim**](https://github.com/Bogdanp/quicksilver.vim) | Quicksilver is a VIM plugin whose purpose is to quicken the process of opening files from inside VIM. |
+22 | [@Bogdanp](https://github.com/Bogdanp)/[**pyrepl.vim**](https://github.com/Bogdanp/pyrepl.vim) | VIM plugin that provides a way to run a Python REPL inside a VIM buffer. | [:arrow_upper_right:](http://bogdanp.github.com/pyrepl.vim/)
+14 | [@talek](https://github.com/talek)/[**obvious-resize**](https://github.com/talek/obvious-resize) | A plugin for easy resizing of Vim windows. |
+7 | [@catalinciurea](https://github.com/catalinciurea)/[**perl-nextmethod**](https://github.com/catalinciurea/perl-nextmethod) | Vim plugin which offers [m, [M, ]m and ]M mappings for perl |
+3 | [@saintandy](https://github.com/saintandy)/[**dotfiles**](https://github.com/saintandy/dotfiles) | My dotfiles for mac |
+2 | [@printesoi](https://github.com/printesoi)/[**dotfiles**](https://github.com/printesoi/dotfiles) | My personal dotfiles |
+2 | [@mihaifm](https://github.com/mihaifm)/[**bck**](https://github.com/mihaifm/bck) | Enhanced searching for Vim |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
