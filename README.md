@@ -209,6 +209,34 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
 2 | [@rombert](https://github.com/rombert)/[**email-sender**](https://github.com/rombert/email-sender) | Dependency Injection showcase - Email Sender App | [:arrow_upper_right:](http://www.slideshare.net/rombertw/dependency-injection-spring-guice-osgi)
+### C#
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+401 | [@etishor](https://github.com/etishor)/[**Metrics.NET**](https://github.com/etishor/Metrics.NET) | The Metrics.NET library provides a way of instrumenting applications with custom metrics (timers, histograms, counters etc) that can be reported in various ways and can provide insights on what is happening inside a running application. |
+79 | [@etishor](https://github.com/etishor)/[**CQRSEventSourcingSam…**](https://github.com/etishor/CQRSEventSourcingSample) | Sample project built to demonstrate CQRS with Event Sourcing with the help of Jonathan Oliver's EventStore, NanoMessageBus, CommonDomain and StorageAccess projects |
+26 | [@RoliSoft](https://github.com/RoliSoft)/[**RS-TV-Show-Tracker**](https://github.com/RoliSoft/RS-TV-Show-Tracker) | Keep track of your TV shows with a nice WPF application. | [:arrow_upper_right:](https://tvshowtracker.net/)
+8 | [@etishor](https://github.com/etishor)/[**SerializationTests**](https://github.com/etishor/SerializationTests) | Collection of tests for object serialization with various serialization libraries |
+7 | [@etishor](https://github.com/etishor)/[**WCF-Ioc-Nhibernate-S…**](https://github.com/etishor/WCF-Ioc-Nhibernate-Sample) | Sample project demonstrating the usage of NHibernate with IOC in a WCF context |
+7 | [@paratechnical](https://github.com/paratechnical)/[**Seringa**](https://github.com/paratechnical/Seringa) | Seringa - SQL Injection framework |
+6 | [@etishor](https://github.com/etishor)/[**ConcurrencyUtilities**](https://github.com/etishor/ConcurrencyUtilities) | .NET Concurrency Utilities |
+6 | [@myo](https://github.com/myo)/[**Experimental**](https://github.com/myo/Experimental) | Any Experimental (Not Ready For Release) Software goes here. |
+5 | [@Therzok](https://github.com/Therzok)/[**ForkStalkSharp**](https://github.com/Therzok/ForkStalkSharp) | Stalk the forks for any commits that haven't had pull requests. |
+5 | [@paratechnical](https://github.com/paratechnical)/[**RadixTree**](https://github.com/paratechnical/RadixTree) | Radix Tree Implementation | [:arrow_upper_right:](http://paratechnical.blogspot.com)
+4 | [@etishor](https://github.com/etishor)/[**NHibernate.Caches.Me…**](https://github.com/etishor/NHibernate.Caches.Membase) | NHibernate Cache provider for Membase |
+4 | [@vnvizitiu](https://github.com/vnvizitiu)/[**AOP**](https://github.com/vnvizitiu/AOP) | This is a repository of AOP techniques |
+4 | [@etishor](https://github.com/etishor)/[**TestDataGenerator**](https://github.com/etishor/TestDataGenerator) | Utility to fill objects with test data |
+3 | [@Cosmin-Parvulescu](https://github.com/Cosmin-Parvulescu)/[**Event.NET**](https://github.com/Cosmin-Parvulescu/Event.NET) | A social event planning web application |
+3 | [@chronium](https://github.com/chronium)/[**ChronosEngine**](https://github.com/chronium/ChronosEngine) |  |
+3 | [@chronium](https://github.com/chronium)/[**Chronos-VM-2**](https://github.com/chronium/Chronos-VM-2) | The new version of the Chronos Virtual Machine. |
+2 | [@myo](https://github.com/myo)/[**LeagueSharp**](https://github.com/myo/LeagueSharp) |  |
+2 | [@paratechnical](https://github.com/paratechnical)/[**PrefixTreeCSharp**](https://github.com/paratechnical/PrefixTreeCSharp) | Prefix Tree Implementation in C# | [:arrow_upper_right:](http://paratechnical.blogspot.ro/)
+2 | [@quitrk](https://github.com/quitrk)/[**MiniDeskTube**](https://github.com/quitrk/MiniDeskTube) | YouTube Windows desktop application |
+2 | [@timotei](https://github.com/timotei)/[**egp_story**](https://github.com/timotei/egp_story) | Experimental Gameplay September Entry - Story Game |
+### CSS
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+30 | [@DanielPintilei](https://github.com/DanielPintilei)/[**Cake**](https://github.com/DanielPintilei/Cake) | Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
+11 | [@DanielPintilei](https://github.com/DanielPintilei)/[**cake-atom-syntax**](https://github.com/DanielPintilei/cake-atom-syntax) | Yummy syntax theme for Atom | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
 
 ## :cloud: Installation
 

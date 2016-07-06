@@ -1402,6 +1402,33 @@
             ]
           ]
         }
+      },
+      {
+        "h3": "CSS"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@DanielPintilei](https://github.com/DanielPintilei)/[**Cake**](https://github.com/DanielPintilei/Cake)",
+              "Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code",
+              "[:arrow_upper_right:](https://danielpintilei.cf/Cake)"
+            ],
+            [
+              "11",
+              "[@DanielPintilei](https://github.com/DanielPintilei)/[**cake-atom-syntax**](https://github.com/DanielPintilei/cake-atom-syntax)",
+              "Yummy syntax theme for Atom",
+              "[:arrow_upper_right:](https://danielpintilei.cf/Cake)"
+            ]
+          ]
+        }
       }
     ]
   }
