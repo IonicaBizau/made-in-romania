@@ -36,27 +36,15 @@ oneByOne(bindy(languages, (cLang, done) => {
     data.forEach(c => {
         result.push({ h3: c.lang });
         result.push({
-            table: {
-                headers: ["Project Name", "Description", "Homepage", "Author", "Stars"]
-              , rows: c.repos.map(cRepo => {
-                    return [
-                        // name + url
-                        `[${cRepo.name}](${cRepo.html_url})`
-
-                        // description
-                      , cRepo.description || ""
-
-                        // homepage
-                      , cRepo.homepage || ""
-
-                        // author
-                      , `[**@${cRepo.owner.login}**](${cRepo.owner.html_url})`
-
-                        // stars
-                      , `${cRepo.stargazers_count} :star2:`
-                    ]
-                })
-            }
+            ul: c.repos.map(cRepo => {
+                let info = [
+                    `[**@${cRepo.owner.login}**](${cRepo.owner.html_url})/[**${cRepo.name}**](${cRepo.html_url})`
+                  , cRepo.description || ""
+                  , cRepo.homepage || ""
+                  , `${cRepo.stargazers_count} :star2:`
+                ]
+                return `${info[3]} ${info[0]}${info[1] ? "—" + info[1] : ""} cRepo.homepage`;
+            })
         });
     });
 
