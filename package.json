@@ -66,7 +66,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1888,6 +1889,33 @@
               "3",
               "[@spyked](https://github.com/spyked)/[**writer-monkey**](https://github.com/spyked/writer-monkey)",
               "Markov text generator written in Haskell",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@luadns](https://github.com/luadns)/[**dns**](https://github.com/luadns/dns)",
+              "Example DNS repository",
+              "[:arrow_upper_right:](http://www.luadns.com/help.html)"
+            ],
+            [
+              "3",
+              "[@seastorm](https://github.com/seastorm)/[**test-code-samples**](https://github.com/seastorm/test-code-samples)",
+              "Various pieces of code (often unfinished) that can be useful",
               ""
             ]
           ]

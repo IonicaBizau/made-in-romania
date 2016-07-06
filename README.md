@@ -17,6 +17,7 @@
  - [ActionScript](#actionscript)
  - [Go](#go)
  - [Haskell](#haskell)
+ - [Lua](#lua)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -327,6 +328,11 @@
 6 | [@haskell-ro](https://github.com/haskell-ro)/[**haskell-workshop**](https://github.com/haskell-ro/haskell-workshop) | "Tweλve days of functional programming" Workshop @ ROSEdu Summer Workshops |
 4 | [@spyked](https://github.com/spyked)/[**negotiator**](https://github.com/spyked/negotiator) | automated negotiator with bounded rational agents |
 3 | [@spyked](https://github.com/spyked)/[**writer-monkey**](https://github.com/spyked/writer-monkey) | Markov text generator written in Haskell |
+### Lua
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+17 | [@luadns](https://github.com/luadns)/[**dns**](https://github.com/luadns/dns) | Example DNS repository | [:arrow_upper_right:](http://www.luadns.com/help.html)
+3 | [@seastorm](https://github.com/seastorm)/[**test-code-samples**](https://github.com/seastorm/test-code-samples) | Various pieces of code (often unfinished) that can be useful |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
