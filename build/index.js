@@ -17,8 +17,8 @@ oneByOne(bindy(languages, (cLang, done) => {
       , language: cLang
     }, (err, repos) => {
         if (err) { return done(err); }
-        console.log(`Fetced ${repos.length} projects. Waiting 63 seconds.`);
-        let left = 63
+        console.log(`Fetced ${repos.length} projects. Waiting 80 seconds.`);
+        let left = 80
           , interval = setInterval(() => {
                 --left;
                 console.log(left);
@@ -28,7 +28,7 @@ oneByOne(bindy(languages, (cLang, done) => {
         setTimeout(() => {
             clearInterval(interval);
             done(null, { lang: cLang, repos: repos });
-        }, 63 * 1000);
+        }, 80 * 1000);
     });
 }), (err, data) => {
     if (err) { return console.error(err); }
@@ -37,7 +37,7 @@ oneByOne(bindy(languages, (cLang, done) => {
         result.push({ h3: ucFirst(c.lang) });
         result.push({
             table: {
-                       headers: [":star2", "Name", "Description", "🌍"]
+                       headers: [":star2:", "Name", "Description", "🌍"]
               , rows: c.repos.map(cRepo => {
 
                     if (cRepo.owner.login.length > 20) {
@@ -47,10 +47,14 @@ oneByOne(bindy(languages, (cLang, done) => {
                     if (cRepo.name.length > 20) {
                         cRepo.name = cRepo.name.substring(0, 20) + "…";
                     }
+
                     cRepo.description = cRepo.description || "";
-                    if (cRepo.description.length > 100) {
-                        cRepo.description = cRepo.description.substring(0, 100) + "…";
-                    }
+                    cRepo.description = cRepo.description.split(" ").map(c => {
+                        if (c.length > 100) {
+                            c = c.substring(0, 100) + "…";
+                        }
+                        return c;
+                    }).join(" ");
 
                     let info = [
                         `[@${cRepo.owner.login}](${cRepo.owner.html_url})/[**${cRepo.name}**](${cRepo.html_url})`

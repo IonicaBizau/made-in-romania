@@ -56,7 +56,7 @@
       {
         "table": {
           "headers": [
-            ":star2",
+            ":star2:",
             "Name",
             "Description",
             "🌍"
@@ -101,7 +101,7 @@
             [
               "464",
               "[@cthackers](https://github.com/cthackers)/[**adm-zip**](https://github.com/cthackers/adm-zip)",
-              "A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in me…",
+              "A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk",
               ""
             ],
             [
@@ -113,7 +113,7 @@
             [
               "347",
               "[@alessioalex](https://github.com/alessioalex)/[**ClientManager**](https://github.com/alessioalex/ClientManager)",
-              "Sample application built with Backbone, RequireJS and Twitter Bootstrap on the client and Node.js (E…",
+              "Sample application built with Backbone, RequireJS and Twitter Bootstrap on the client and Node.js (Express.js, Mongoose) on the server.",
               ""
             ],
             [
@@ -227,7 +227,7 @@
             [
               "69",
               "[@stefangabos](https://github.com/stefangabos)/[**Zebra_Dialog**](https://github.com/stefangabos/Zebra_Dialog)",
-              "A small, compact, and highly configurable jQuery plugin for creating modal dialog boxes, meant to re…",
+              "A small, compact, and highly configurable jQuery plugin for creating modal dialog boxes, meant to replace native Java Script “alert” and “confirmation” dialog boxes.",
               "[:arrow_upper_right:](http://stefangabos.ro/jquery/zebra-dialog/)"
             ],
             [
@@ -281,7 +281,7 @@
             [
               "45",
               "[@serbanghita](https://github.com/serbanghita)/[**formToObject.js**](https://github.com/serbanghita/formToObject.js)",
-              "Plain JavaScript method to convert a HTML form (fields and values) to JavaScript (multidimensional) …",
+              "Plain JavaScript method to convert a HTML form (fields and values) to JavaScript (multidimensional) object.",
               ""
             ],
             [
@@ -359,13 +359,13 @@
             [
               "31",
               "[@stefangabos](https://github.com/stefangabos)/[**Zebra_Tooltips**](https://github.com/stefangabos/Zebra_Tooltips)",
-              "A lightweight and highly configurable jQuery plugin for creating simple but smart and attractive too…",
+              "A lightweight and highly configurable jQuery plugin for creating simple but smart and attractive tooltips.",
               "[:arrow_upper_right:](http://stefangabos.ro/jquery/zebra-tooltips/)"
             ],
             [
               "29",
               "[@stefangabos](https://github.com/stefangabos)/[**Zebra_Pin**](https://github.com/stefangabos/Zebra_Pin)",
-              "A lightweight and adaptive jQuery plugin for pinning any element to the page or to a container eleme…",
+              "A lightweight and adaptive jQuery plugin for pinning any element to the page or to a container element",
               "[:arrow_upper_right:](http://stefangabos.ro/jquery/zebra-pin/)"
             ],
             [
@@ -425,7 +425,7 @@
             [
               "21",
               "[@IonicaBizau](https://github.com/IonicaBizau)/[**webcam-snow**](https://github.com/IonicaBizau/webcam-snow)",
-              ":tiger: An application that uses the web camera and the hand movements changing the snow direction i…",
+              ":tiger: An application that uses the web camera and the hand movements changing the snow direction in the page. Happy New Year! :-)",
               ""
             ],
             [
@@ -629,7 +629,7 @@
             [
               "5",
               "[@danburzo](https://github.com/danburzo)/[**appseeds**](https://github.com/danburzo/appseeds)",
-              "A toolkit of library-agnostic components for modern JavaScript applications: State Manager, Pub/Sub,…",
+              "A toolkit of library-agnostic components for modern JavaScript applications: State Manager, Pub/Sub, Lambda.",
               "[:arrow_upper_right:](http://danburzo.github.com/appseeds)"
             ],
             [
@@ -665,7 +665,7 @@
             [
               "4",
               "[@alessioalex](https://github.com/alessioalex)/[**pump-chain**](https://github.com/alessioalex/pump-chain)",
-              "A module that glues pump and bubble-stream-error to make life easier when piping streams internally …",
+              "A module that glues pump and bubble-stream-error to make life easier when piping streams internally and returning an outer stream.",
               ""
             ],
             [
@@ -676,14 +676,14 @@
             ],
             [
               "4",
-              "[@icflorescu](https://github.com/icflorescu)/[**textdiff-patch**](https://github.com/icflorescu/textdiff-patch)",
-              "Apply lean text diff delta patches created by textdiff-create.",
+              "[@icflorescu](https://github.com/icflorescu)/[**textdiff-create**](https://github.com/icflorescu/textdiff-create)",
+              "Create lean text diff deltas.",
               ""
             ],
             [
               "4",
-              "[@icflorescu](https://github.com/icflorescu)/[**textdiff-create**](https://github.com/icflorescu/textdiff-create)",
-              "Create lean text diff deltas.",
+              "[@icflorescu](https://github.com/icflorescu)/[**textdiff-patch**](https://github.com/icflorescu/textdiff-patch)",
+              "Apply lean text diff delta patches created by textdiff-create.",
               ""
             ],
             [
@@ -701,7 +701,7 @@
             [
               "4",
               "[@adrianolaru](https://github.com/adrianolaru)/[**generator-staticsite**](https://github.com/adrianolaru/generator-staticsite)",
-              "Creates an Assemble boilerplate project with built-in support for SASS (with Bourbon and Neat), Coff…",
+              "Creates an Assemble boilerplate project with built-in support for SASS (with Bourbon and Neat), CoffeeScript and an optimized build.",
               ""
             ],
             [
@@ -797,13 +797,13 @@
             [
               "2",
               "[@alessioalex](https://github.com/alessioalex)/[**npm-republicate**](https://github.com/alessioalex/npm-republicate)",
-              "Replicate an NPM module (along with its deps) from registry A to registry B (by publishing it && its…",
+              "Replicate an NPM module (along with its deps) from registry A to registry B (by publishing it && its deps).",
               ""
             ],
             [
               "2",
               "[@alessioalex](https://github.com/alessioalex)/[**git-authors**](https://github.com/alessioalex/git-authors)",
-              "List all authors that have contributed to a git project in descending order, based on the number of …",
+              "List all authors that have contributed to a git project in descending order, based on the number of commits.",
               ""
             ],
             [
@@ -815,7 +815,7 @@
             [
               "2",
               "[@alessioalex](https://github.com/alessioalex)/[**npm-dep-chain**](https://github.com/alessioalex/npm-dep-chain)",
-              "Get all the NPM dependencies for a module / set of modules (goes down the stack, for all the subdepe…",
+              "Get all the NPM dependencies for a module / set of modules (goes down the stack, for all the subdependencies etc)",
               ""
             ],
             [
@@ -827,7 +827,7 @@
             [
               "2",
               "[@alessioalex](https://github.com/alessioalex)/[**spawn-to-readstream**](https://github.com/alessioalex/spawn-to-readstream)",
-              "Make child_process.spawn behave like a read stream, emit error event with full message (and not emit…",
+              "Make child_process.spawn behave like a read stream, emit error event with full message (and not emit 'end' event wrongfully).",
               ""
             ],
             [
@@ -887,7 +887,7 @@
             [
               "2",
               "[@alessioalex](https://github.com/alessioalex)/[**parallelize**](https://github.com/alessioalex/parallelize)",
-              "control flow library for parallel async functions; it invokes the callback with the aggregated resul…",
+              "control flow library for parallel async functions; it invokes the callback with the aggregated results or an error",
               ""
             ],
             [
@@ -947,7 +947,7 @@
       {
         "table": {
           "headers": [
-            ":star2",
+            ":star2:",
             "Name",
             "Description",
             "🌍"
@@ -968,7 +968,7 @@
             [
               "209",
               "[@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool)",
-              "FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on …",
+              "FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand.",
               ""
             ],
             [
@@ -1022,13 +1022,13 @@
             [
               "18",
               "[@rcosnita](https://github.com/rcosnita)/[**eCommerce-RBAC**](https://github.com/rcosnita/eCommerce-RBAC)",
-              "This project intends to provide a security system implementation fully compliant with RBAC standard.…",
+              "This project intends to provide a security system implementation fully compliant with RBAC standard. This security system is modeled starting from eCommerce applications security requirements.",
               ""
             ],
             [
               "16",
               "[@MihaiBalint](https://github.com/MihaiBalint)/[**TimisoaraPublicTrans…**](https://github.com/MihaiBalint/TimisoaraPublicTransport)",
-              "An Android App that scrapes public transport information (times/connections) and shows it on your An…",
+              "An Android App that scrapes public transport information (times/connections) and shows it on your Android.",
               "[:arrow_upper_right:](http://mihaibalint.github.com/TimisoaraPublicTransport)"
             ],
             [
@@ -1052,13 +1052,13 @@
             [
               "11",
               "[@cosminstefanxp](https://github.com/cosminstefanxp)/[**University-Managemen…**](https://github.com/cosminstefanxp/University-Management-System)",
-              "The project is a huge one and consists of a university management system, that handles everything fr…",
+              "The project is a huge one and consists of a university management system, that handles everything from user-management (students/teachers/secretaries), to curriculum management (adding/editing/deleting subjects, teachers, teaching activities), schedule management, exam scheduling, grading system. ",
               ""
             ],
             [
               "11",
               "[@cosminstefanxp](https://github.com/cosminstefanxp)/[**Restaurant-Table-Ord…**](https://github.com/cosminstefanxp/Restaurant-Table-Order-Management-Demo)",
-              "The project consists in an Android application that can be used by employees in a restaurant to hand…",
+              "The project consists in an Android application that can be used by employees in a restaurant to handle the clients, their orders and can help them easily find free tables or place orders. This is only a demo application, created mainly for proof of proper user-mobile interaction.",
               ""
             ],
             [
@@ -1160,7 +1160,7 @@
             [
               "3",
               "[@alexo](https://github.com/alexo)/[**pngtastic**](https://github.com/alexo/pngtastic)",
-              "Github mirror of pngtastic java open source project (slightly modified - using maven build system in…",
+              "Github mirror of pngtastic java open source project (slightly modified - using maven build system instead of ant)",
               "[:arrow_upper_right:](http://code.google.com/p/pngtastic/)"
             ],
             [
@@ -1190,7 +1190,7 @@
             [
               "2",
               "[@rcosnita](https://github.com/rcosnita)/[**rdbms-reduce**](https://github.com/rcosnita/rdbms-reduce)",
-              "This is a distributed reduce exercise for a scenario when resource ids are stored independently of r…",
+              "This is a distributed reduce exercise for a scenario when resource ids are stored independently of resource details.",
               ""
             ],
             [
@@ -1208,7 +1208,7 @@
             [
               "2",
               "[@cosminstefanxp](https://github.com/cosminstefanxp)/[**Weazzer**](https://github.com/cosminstefanxp/Weazzer)",
-              "An Android weather app, that suggests what type of clothes should be worn, based on the current weat…",
+              "An Android weather app, that suggests what type of clothes should be worn, based on the current weather temperature and conditions. The app also has the capability of learning the user's preferences, so if one, for example, wears only a T-Shirt at 15 degrees, the app will make better suggestions next time.",
               ""
             ],
             [
