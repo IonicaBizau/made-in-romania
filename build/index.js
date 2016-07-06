@@ -7,6 +7,7 @@ const madeIn = require("made-in")
     , rJson = require("r-json")
     , wJson = require("w-json")
     , packPath = require("package-json-path")
+    , ucFirst = require("uc-first")
     ;
 
 oneByOne(bindy(languages, (cLang, done) => {
@@ -16,8 +17,8 @@ oneByOne(bindy(languages, (cLang, done) => {
       , language: cLang
     }, (err, repos) => {
         if (err) { return done(err); }
-        console.log(`Fetced ${repos.length} projects. Waiting 60 seconds.`);
-        let left = 60
+        console.log(`Fetced ${repos.length} projects. Waiting 63 seconds.`);
+        let left = 63
           , interval = setInterval(() => {
                 --left;
                 console.log(left);
@@ -27,28 +28,37 @@ oneByOne(bindy(languages, (cLang, done) => {
         setTimeout(() => {
             clearInterval(interval);
             done(null, { lang: cLang, repos: repos });
-        }, 60 * 1000);
+        }, 63 * 1000);
     });
 }), (err, data) => {
     if (err) { return console.error(err); }
-    let result = [
-    ];
+    let result = [];
     data.forEach(c => {
-        result.push({ h3: c.lang });
+        result.push({ h3: ucFirst(c.lang) });
         result.push({
             table: {
-                headers: ["Name", "Description", "Homepage"]
+                headers: ["Name", "Description", "🌍"]
               , rows: c.repos.map(cRepo => {
+
+                    if (cRepo.owner.login.length > 20) {
+                        cRepo.owner.login = cRepo.owner.login.substring(0, 20) + "…";
+                    }
+
+                    if (cRepo.name.length > 20) {
+                        cRepo.name = cRepo.name.substring(0, 20) + "…";
+                    }
+
                     let info = [
                         `[@${cRepo.owner.login}](${cRepo.owner.html_url})/[**${cRepo.name}**](${cRepo.html_url})`
                       , cRepo.description || ""
                       , cRepo.homepage || ""
                       , `${cRepo.stargazers_count} :star2:`
                     ]
+
                     return [
                         info[3] + " " + info[0]
                       , info[1]
-                      , cRepo.homepage && `[Link](${cRepo.homepage})` || ""
+                      , cRepo.homepage && `[:arrow_upper_right:](${cRepo.homepage})` || ""
                     ]
                 })
             }
