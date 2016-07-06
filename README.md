@@ -28,6 +28,7 @@
  - [Swift](#swift)
  - [TeX](#tex)
  - [VimL](#viml)
+ - [AutoHotkey](#autohotkey)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -622,6 +623,10 @@
 3 | [@saintandy](https://github.com/saintandy)/[**dotfiles**](https://github.com/saintandy/dotfiles) | My dotfiles for mac |
 2 | [@printesoi](https://github.com/printesoi)/[**dotfiles**](https://github.com/printesoi/dotfiles) | My personal dotfiles |
 2 | [@mihaifm](https://github.com/mihaifm)/[**bck**](https://github.com/mihaifm/bck) | Enhanced searching for Vim |
+### AutoHotkey
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+3 | [@chipco](https://github.com/chipco)/[**map-maker-shapes**](https://github.com/chipco/map-maker-shapes) | AutoHotKey script designed to automate adding building shapes on Google Map Maker |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].

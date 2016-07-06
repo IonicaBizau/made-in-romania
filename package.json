@@ -77,7 +77,8 @@
           "[Shell](#shell)",
           "[Swift](#swift)",
           "[TeX](#tex)",
-          "[VimL](#viml)"
+          "[VimL](#viml)",
+          "[AutoHotkey](#autohotkey)"
         ]
       },
       {
@@ -3570,6 +3571,27 @@
               "2",
               "[@mihaifm](https://github.com/mihaifm)/[**bck**](https://github.com/mihaifm/bck)",
               "Enhanced searching for Vim",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "AutoHotkey"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@chipco](https://github.com/chipco)/[**map-maker-shapes**](https://github.com/chipco/map-maker-shapes)",
+              "AutoHotKey script designed to automate adding building shapes on Google Map Maker",
               ""
             ]
           ]
