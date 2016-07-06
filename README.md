@@ -21,6 +21,7 @@
  - [Objective-C](#objective-c)
  - [Perl](#perl)
  - [PHP](#php)
+ - [Python](#python)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -481,6 +482,76 @@
 2 | [@psychoticmeow](https://github.com/psychoticmeow)/[**nbsp.io**](https://github.com/psychoticmeow/nbsp.io) |  |
 2 | [@palcu](https://github.com/palcu)/[**vms**](https://github.com/palcu/vms) | Volunteer Management System | [:arrow_upper_right:](http://voluntari.cicvalcea.ro/)
 2 | [@scribu](https://github.com/scribu)/[**wp-filter-email-noti…**](https://github.com/scribu/wp-filter-email-notifications) |  | [:arrow_upper_right:](http://wordpress.org/extend/plugins/filter-email-notifications/)
+### Python
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+177 | [@ionelmc](https://github.com/ionelmc)/[**django-redisboard**](https://github.com/ionelmc/django-redisboard) | Redis monitoring and inspection tool in django admin. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-redisboard)
+172 | [@ionelmc](https://github.com/ionelmc)/[**cookiecutter-pylibra…**](https://github.com/ionelmc/cookiecutter-pylibrary) | Enhanced cookiecutter template for Python libraries. |
+137 | [@ionelmc](https://github.com/ionelmc)/[**python-hunter**](https://github.com/ionelmc/python-hunter) | Hunter is a flexible code tracing toolkit.  |
+135 | [@ionelmc](https://github.com/ionelmc)/[**python-manhole**](https://github.com/ionelmc/python-manhole) | Debugging manhole for python applications. | [:arrow_upper_right:](https://pypi.python.org/pypi/manhole)
+114 | [@ionelmc](https://github.com/ionelmc)/[**django-prefetch**](https://github.com/ionelmc/django-prefetch) | Generic model related data prefetch framework for Django. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-prefetch)
+111 | [@ionelmc](https://github.com/ionelmc)/[**pytest-benchmark**](https://github.com/ionelmc/pytest-benchmark) | py.test fixture for benchmarking code |
+99 | [@ionelmc](https://github.com/ionelmc)/[**python-fields**](https://github.com/ionelmc/python-fields) | A totally different take on container boilerplate. |
+83 | [@ionelmc](https://github.com/ionelmc)/[**python-redis-lock**](https://github.com/ionelmc/python-redis-lock) | Lock context manager implemented via redis SET NX EX and BLPOP. | [:arrow_upper_right:](https://pypi.python.org/pypi/python-redis-lock)
+57 | [@ionelmc](https://github.com/ionelmc)/[**django-monkey-team**](https://github.com/ionelmc/django-monkey-team) | Django middleware and userscript that displays debug tracebacks on production sites (where you would have DEBUG = False) only to developers. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-monkey-team)
+51 | [@viorels](https://github.com/viorels)/[**mtgox-trader**](https://github.com/viorels/mtgox-trader) | BitCoin MTGox trading library |
+39 | [@ionelmc](https://github.com/ionelmc)/[**python-aspectlib**](https://github.com/ionelmc/python-aspectlib) | An aspect-oriented programming, monkey-patch and decorators library. It is useful when changing behavior in existing code is desired. It includes tools for debugging and testing: simple mock/record and a complete capture/replay framework. |
+38 | [@LucianU](https://github.com/LucianU)/[**bud**](https://github.com/LucianU/bud) | A Django project template with automation |
+37 | [@ionelmc](https://github.com/ionelmc)/[**django-admin-customi…**](https://github.com/ionelmc/django-admin-customizer) | Django admin customizing interface | [:arrow_upper_right:](https://pypi.python.org/pypi/django-admin-customizer)
+35 | [@ionelmc](https://github.com/ionelmc)/[**python-remote-pdb**](https://github.com/ionelmc/python-remote-pdb) | Remote vanilla PDB (over TCP sockets). |
+34 | [@LucianU](https://github.com/LucianU)/[**django-startproject**](https://github.com/LucianU/django-startproject) | No longer maintained. Instead, try https://github.com/LucianU/bud, which uses Vagrant + Ansible to automate a lot more things. |
+29 | [@ionelmc](https://github.com/ionelmc)/[**projectskel**](https://github.com/ionelmc/projectskel) | Project skeleton for python 2.7 projects with fabric and virtualenv. It's intended for django projects but can be customized for other types of projects. |
+27 | [@ionelmc](https://github.com/ionelmc)/[**python-lazy-object-p…**](https://github.com/ionelmc/python-lazy-object-proxy) | A fast and thorough lazy object proxy. |
+26 | [@mgax](https://github.com/mgax)/[**SpaghettiFS**](https://github.com/mgax/SpaghettiFS) | Git-backed FUSE filesystem |
+22 | [@ionelmc](https://github.com/ionelmc)/[**python-tblib**](https://github.com/ionelmc/python-tblib) | Traceback fiddling library. Allows you to pickle tracebacks. |
+21 | [@ionelmc](https://github.com/ionelmc)/[**django-uwsgi-cache**](https://github.com/ionelmc/django-uwsgi-cache) | uWSGI Django cache backend. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-uwsgi-cache)
+21 | [@ionelmc](https://github.com/ionelmc)/[**python-nameless**](https://github.com/ionelmc/python-nameless) | Sample project. Use https://github.com/ionelmc/cookiecutter-… to make your own project. |
+20 | [@ionelmc](https://github.com/ionelmc)/[**django-admin-utils**](https://github.com/ionelmc/django-admin-utils) | Utility code for easier django admin development | [:arrow_upper_right:](https://pypi.python.org/pypi/django-admin-utils)
+15 | [@mgax](https://github.com/mgax)/[**tinymail**](https://github.com/mgax/tinymail) | IMAP mail client for the Mac |
+14 | [@ionelmc](https://github.com/ionelmc)/[**nose-htmloutput**](https://github.com/ionelmc/nose-htmloutput) |  |
+12 | [@ionelmc](https://github.com/ionelmc)/[**nose-timelimit**](https://github.com/ionelmc/nose-timelimit) | Nose plugin that allows you automatically skip tests that are too slow. | [:arrow_upper_right:](https://pypi.python.org/pypi/nose-timelimit)
+10 | [@ionelmc](https://github.com/ionelmc)/[**cookiecutter-pylibra…**](https://github.com/ionelmc/cookiecutter-pylibrary-minimal) | This has been merged into https://github.com/ionelmc/cookiecutter-… - use that instead! |
+8 | [@mgax](https://github.com/mgax)/[**MagicFolder**](https://github.com/mgax/MagicFolder) |  | [:arrow_upper_right:](http://pypi.python.org/pypi/MagicFolder)
+8 | [@mgax](https://github.com/mgax)/[**PyKit**](https://github.com/mgax/PyKit) | Python GUI on Mac using WebKit |
+7 | [@mgax](https://github.com/mgax)/[**airship**](https://github.com/mgax/airship) |  | [:arrow_upper_right:](https://sarge-deployer.readthedocs.org/)
+7 | [@ibz](https://github.com/ibz)/[**glot**](https://github.com/ibz/glot) | generate svg maps, kml, speed and elevation profiles from gpx or columbus v-900 csv files |
+7 | [@ionelmc](https://github.com/ionelmc)/[**python-holdup**](https://github.com/ionelmc/python-holdup) |  |
+7 | [@alexcoman](https://github.com/alexcoman)/[**labs**](https://github.com/alexcoman/labs) |  |
+6 | [@ionelmc](https://github.com/ionelmc)/[**django-easyfilters**](https://github.com/ionelmc/django-easyfilters) | Fork of https://bitbucket.org/evildmp/django-eas… |
+6 | [@mgax](https://github.com/mgax)/[**kv**](https://github.com/mgax/kv) | Simple key-value store backed by sqlite |
+5 | [@mihneagiurgea](https://github.com/mihneagiurgea)/[**fuxia**](https://github.com/mihneagiurgea/fuxia) | Distributed Sudoku Generator |
+4 | [@ionelmc](https://github.com/ionelmc)/[**python-signalfd**](https://github.com/ionelmc/python-signalfd) | CFFI bindings for signalfd. |
+4 | [@ionelmc](https://github.com/ionelmc)/[**python-mongoql-conv**](https://github.com/ionelmc/python-mongoql-conv) | Library to convert those MongoDB queries to something else, like a python expresion, a function or a django query (Q) object tree |
+4 | [@ionelmc](https://github.com/ionelmc)/[**django-secdownload-s…**](https://github.com/ionelmc/django-secdownload-storage) | Django storage backend that can be used to serve files via lighttpd's mod_secdownload module. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-secdownload-storage)
+4 | [@ionelmc](https://github.com/ionelmc)/[**django-customfields**](https://github.com/ionelmc/django-customfields) | Couple of custom model fields for django: CachedManyToManyField and InheritedField | [:arrow_upper_right:](https://pypi.python.org/pypi/django-customfields)
+4 | [@mgax](https://github.com/mgax)/[**djangodash**](https://github.com/mgax/djangodash) |  |
+3 | [@mgax](https://github.com/mgax)/[**dexonline-scrabble**](https://github.com/mgax/dexonline-scrabble) | DEXonline dicționar de scrabble | [:arrow_upper_right:](scrabble.grep.ro)
+3 | [@mgax](https://github.com/mgax)/[**civic-site**](https://github.com/mgax/civic-site) | code that powers civic.grep.ro |
+3 | [@steevel](https://github.com/steevel)/[**flask-template**](https://github.com/steevel/flask-template) | Flask template for future projects |
+3 | [@mgax](https://github.com/mgax)/[**mkfacturi**](https://github.com/mgax/mkfacturi) | Invoice generator |
+3 | [@mihneagiurgea](https://github.com/mihneagiurgea)/[**pysandbox**](https://github.com/mihneagiurgea/pysandbox) | Personal python coding sandbox |
+3 | [@madalinoprea](https://github.com/madalinoprea)/[**ro.moprea.vplay**](https://github.com/madalinoprea/ro.moprea.vplay) | Boxee app for vplay.ro | [:arrow_upper_right:](http://moprea.ro/2011/11/29/vplay-app-for-boxee-box)
+3 | [@cmin764](https://github.com/cmin764)/[**xhosts**](https://github.com/cmin764/xhosts) | Hosts file editor with web support |
+3 | [@alexei](https://github.com/alexei)/[**django-template-exte…**](https://github.com/alexei/django-template-extensions) | Additional Django template tags and filters |
+3 | [@alexei](https://github.com/alexei)/[**backdrop**](https://github.com/alexei/backdrop) | Configuration system for Python |
+3 | [@ionelmc](https://github.com/ionelmc)/[**django-badbrowser**](https://github.com/ionelmc/django-badbrowser) | Browser detection (including browser upgrade notices) for Django | [:arrow_upper_right:](https://pypi.python.org/pypi/django-badbrowser)
+2 | [@alexef](https://github.com/alexef)/[**packagekit-python-co…**](https://github.com/alexef/packagekit-python-console) | Example source code using PackageKit GI gobject-introspection from Python  |
+2 | [@madalinoprea](https://github.com/madalinoprea)/[**django-rest-tutorial**](https://github.com/madalinoprea/django-rest-tutorial) | Tutorial to present REST Api implementation in Django ith Django Pistons | [:arrow_upper_right:](http://moprea.ro)
+2 | [@mgax](https://github.com/mgax)/[**hoover**](https://github.com/mgax/hoover) |  | [:arrow_upper_right:](https://hoover.grep.ro)
+2 | [@ibz](https://github.com/ibz)/[**liberatio**](https://github.com/ibz/liberatio) | liberate data from various services: flickr, gowalla, instagram, last.fm, path, twitpic, twitter |
+2 | [@alexef](https://github.com/alexef)/[**Wouso-Facebook-Integ…**](https://github.com/alexef/Wouso-Facebook-Integration) |  |
+2 | [@mgax](https://github.com/mgax)/[**cs4hs-pygame**](https://github.com/mgax/cs4hs-pygame) |  |
+2 | [@mgax](https://github.com/mgax)/[**minitwitter**](https://github.com/mgax/minitwitter) |  |
+2 | [@mgax](https://github.com/mgax)/[**agripay**](https://github.com/mgax/agripay) |  | [:arrow_upper_right:](http://agripay.gerty.grep.ro/)
+2 | [@dinuand](https://github.com/dinuand)/[**SensiPy**](https://github.com/dinuand/SensiPy) |  |
+2 | [@mgax](https://github.com/mgax)/[**beancount**](https://github.com/mgax/beancount) | An implementation of the Ledger data architecture in Python, by Martin Blais | [:arrow_upper_right:](http://furius.ca/beancount/)
+2 | [@ibz](https://github.com/ibz)/[**zhtools**](https://github.com/ibz/zhtools) | Chinese language related tools |
+2 | [@mgax](https://github.com/mgax)/[**MentionGraphs**](https://github.com/mgax/MentionGraphs) | uberVU hack day project - graph of mentions |
+2 | [@cmin764](https://github.com/cmin764)/[**coliw**](https://github.com/cmin764/coliw) | Brings CLI to web by executing high level mash-up commands for common services. |
+2 | [@avoinea](https://github.com/avoinea)/[**naaya.openmeetings**](https://github.com/avoinea/naaya.openmeetings) | Open meetings for naaya |
+2 | [@ionelmc](https://github.com/ionelmc)/[**pylint-fields**](https://github.com/ionelmc/pylint-fields) | Pylint plugin for python-fields |
+2 | [@ionelmc](https://github.com/ionelmc)/[**python-su**](https://github.com/ionelmc/python-su) |  |
+2 | [@mgax](https://github.com/mgax)/[**hgPatcher**](https://github.com/mgax/hgPatcher) | Repackaging of Mercurial's patch code |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
