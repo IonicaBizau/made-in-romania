@@ -23,6 +23,7 @@
  - [PHP](#php)
  - [Python](#python)
  - [Ruby](#ruby)
+ - [Scala](#scala)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -584,6 +585,10 @@
 2 | [@cristianbica](https://github.com/cristianbica)/[**active_job-query**](https://github.com/cristianbica/active_job-query) | ActiveJob Query API |
 2 | [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 2 | [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
+### Scala
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+2 | [@emaorhian](https://github.com/emaorhian)/[**hdfs-tachyon-file-br…**](https://github.com/emaorhian/hdfs-tachyon-file-browser) |  |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].

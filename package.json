@@ -72,7 +72,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -3381,6 +3382,27 @@
             [
               "2",
               "[@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@emaorhian](https://github.com/emaorhian)/[**hdfs-tachyon-file-br…**](https://github.com/emaorhian/hdfs-tachyon-file-browser)",
               "",
               ""
             ]
