@@ -19,6 +19,7 @@
  - [Haskell](#haskell)
  - [Lua](#lua)
  - [Objective-C](#objective-c)
+ - [Perl](#perl)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -370,6 +371,29 @@
 2 | [@alexbumbu](https://github.com/alexbumbu)/[**ABDataSourceControll…**](https://github.com/alexbumbu/ABDataSourceController) | Simple Objective-C and Swift implementation for getting rid of your UITableView & UICollectionView delegate and data source code from your UIViewController and share it between UIViewControllers. |
 2 | [@alexcovaci](https://github.com/alexcovaci)/[**BTProximity**](https://github.com/alexcovaci/BTProximity) | Lock/Unlock your Mac with any Bluetooth device |
 2 | [@lucianboboc](https://github.com/lucianboboc)/[**NSArray-LBcategory**](https://github.com/lucianboboc/NSArray-LBcategory) | NSArray category that helps you working with JSON, adds extra security. |
+### Perl
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+161 | [@trizen](https://github.com/trizen)/[**youtube-viewer**](https://github.com/trizen/youtube-viewer) | A lightweight application for searching and streaming videos from YouTube. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/03/gtk-youtube-viewer.html)
+27 | [@trizen](https://github.com/trizen)/[**obmenu-generator**](https://github.com/trizen/obmenu-generator) | A fast menu generator for the Openbox Window Manager. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/02/obmenu-generator.html)
+23 | [@trizen](https://github.com/trizen)/[**sidef**](https://github.com/trizen/sidef) | A modern object-oriented programming language, implemented in Perl. | [:arrow_upper_right:](http://rosettacode.org/wiki/Sidef)
+13 | [@trizen](https://github.com/trizen)/[**alsi**](https://github.com/trizen/alsi) | A command-line system information tool for Arch Linux. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/08/alsi.html)
+13 | [@trizen](https://github.com/trizen)/[**trizen**](https://github.com/trizen/trizen) | Lightweight AUR Package Manager | [:arrow_upper_right:](https://aur.archlinux.org/packages/trizen/)
+12 | [@trizen](https://github.com/trizen)/[**menutray**](https://github.com/trizen/menutray) | A simple GTK+ application menu tray. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/02/menutray.html)
+8 | [@trizen](https://github.com/trizen)/[**perl-scripts**](https://github.com/trizen/perl-scripts) | Some day-to-day Perl scripts which prove some ideas or implement some useful practicability. | [:arrow_upper_right:](http://trizenx.blogspot.com)
+7 | [@stefansbv](https://github.com/stefansbv)/[**sqitch-gui**](https://github.com/stefansbv/sqitch-gui) | GUI for Sqitch - Simple SQL change management |
+6 | [@stefansbv](https://github.com/stefansbv)/[**Tpda3**](https://github.com/stefansbv/Tpda3) | Tiny Perl Database Application with Perl Tk (and experimental wxPerl) front-end. | [:arrow_upper_right:](http://stefansuciu.ro/tpda3/)
+6 | [@raulmatei](https://github.com/raulmatei)/[**Mojolicious-Plugin-E…**](https://github.com/raulmatei/Mojolicious-Plugin-Email) | Mojolicious Plugin for sending emails |
+5 | [@trizen](https://github.com/trizen)/[**obbrowser**](https://github.com/trizen/obbrowser) | A simple script for Openbox which recursively browses the filesystem through pipe menus (with icons) | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/12/obbrowser.html)
+5 | [@trizen](https://github.com/trizen)/[**clyrics**](https://github.com/trizen/clyrics) | An extensible lyrics fetcher, with daemon support for cmus and mocp. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2013/02/mocp-lyrics.html)
+3 | [@nknwn](https://github.com/nknwn)/[**configs**](https://github.com/nknwn/configs) |  |
+3 | [@stefansbv](https://github.com/stefansbv)/[**qdepo**](https://github.com/stefansbv/qdepo) | Query deposit for database to spreadsheet data export |
+3 | [@trizen](https://github.com/trizen)/[**language-benchmarks**](https://github.com/trizen/language-benchmarks) | A simple benchmark system for compiled and interpreted languages. |
+2 | [@stefansbv](https://github.com/stefansbv)/[**Tpda3-Devel**](https://github.com/stefansbv/Tpda3-Devel) | Generate Tpda3 applications. |
+2 | [@stefansbv](https://github.com/stefansbv)/[**tpda3-notar**](https://github.com/stefansbv/tpda3-notar) | Tpda3 Application - Notar (lang: Romanian) |
+2 | [@stefansbv](https://github.com/stefansbv)/[**delicios**](https://github.com/stefansbv/delicios) | A cooking recipes web application built with Dancer2 and Bootstrap3. |
+2 | [@stefansbv](https://github.com/stefansbv)/[**perl-business-ro-cif**](https://github.com/stefansbv/perl-business-ro-cif) | Validate Romanian CIF |
+2 | [@slaash](https://github.com/slaash)/[**scripts**](https://github.com/slaash/scripts) | RubyScripts |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
