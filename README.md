@@ -1,5 +1,5 @@
 
-# made-in-romania
+# Made in Romania
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Downloads](https://img.shields.io/npm/dt/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
@@ -237,6 +237,42 @@
 --- | --- | --- | ---
 30 | [@DanielPintilei](https://github.com/DanielPintilei)/[**Cake**](https://github.com/DanielPintilei/Cake) | Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
 11 | [@DanielPintilei](https://github.com/DanielPintilei)/[**cake-atom-syntax**](https://github.com/DanielPintilei/cake-atom-syntax) | Yummy syntax theme for Atom | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
+### HTML
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+6 | [@acasaprogramming](https://github.com/acasaprogramming)/[**Minimal-Portfolio-wi…**](https://github.com/acasaprogramming/Minimal-Portfolio-with-Bootstrap-3-and-Shuffle.js) |  |
+2 | [@harababurel](https://github.com/harababurel)/[**homework**](https://github.com/harababurel/homework) | collection of lab projects and homework for university |
+2 | [@OvidiuCaba](https://github.com/OvidiuCaba)/[**StatisticsRomania**](https://github.com/OvidiuCaba/StatisticsRomania) |  |
+### C
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+59 | [@clawoo](https://github.com/clawoo)/[**AsteroidsCocos2D-x**](https://github.com/clawoo/AsteroidsCocos2D-x) | An Asteroids game implemented in Cocos2D-x |
+32 | [@clawoo](https://github.com/clawoo)/[**BreakoutCocos2D-x**](https://github.com/clawoo/BreakoutCocos2D-x) |  | [:arrow_upper_right:](Porting of the How To Create A Breakout Game with Box2D and Cocos2D Tutorial by Ray Wenderlich to Cocos2D-x)
+32 | [@clawoo](https://github.com/clawoo)/[**CuteAPultCocos2D-x**](https://github.com/clawoo/CuteAPultCocos2D-x) | A Cocos2D-x port of the How To Make a Catapult Shooting Game tutorial by Gustavo Ambrozio |
+30 | [@catalinionita](https://github.com/catalinionita)/[**Ecryptfs-Tools-for-A…**](https://github.com/catalinionita/Ecryptfs-Tools-for-Android) | User space tools and libraries that enable ecryptfs functionality in Android |
+22 | [@clawoo](https://github.com/clawoo)/[**SimpleGameCocos2D-x**](https://github.com/clawoo/SimpleGameCocos2D-x) | A porting of the popular Cocos2D tutorial by Ray Wenderlich to Cocos2D-x |
+21 | [@clawoo](https://github.com/clawoo)/[**PongCocos2D-x**](https://github.com/clawoo/PongCocos2D-x) | A Cocos2D-x implementation of the classic game of Pong |
+21 | [@clawoo](https://github.com/clawoo)/[**TileBasedGameCocos2D…**](https://github.com/clawoo/TileBasedGameCocos2D-x) | A porting of the Cocos2D tutorial by Ray Wenderlich to Cocos2D-x |
+16 | [@clawoo](https://github.com/clawoo)/[**SimpleGamePart3Cocos…**](https://github.com/clawoo/SimpleGamePart3Cocos2D-x) | A porting of the popular Cocos2D tutorial Part 3 by Ray Wenderlich to Cocos2D-x |
+10 | [@clawoo](https://github.com/clawoo)/[**SimpleGamePart2Cocos…**](https://github.com/clawoo/SimpleGamePart2Cocos2D-x) | A porting of the popular Cocos2D tutorial Part 2 by Ray Wenderlich to Cocos2D-x |
+9 | [@bogdanm](https://github.com/bogdanm)/[**eLuaBrain**](https://github.com/bogdanm/eLuaBrain) | 32-bit autonomous computer based on eLua | [:arrow_upper_right:](http://eluabrain.blogspot.com)
+9 | [@vpalos](https://github.com/vpalos)/[**loomiere**](https://github.com/vpalos/loomiere) | High-performance pseudo-streaming server. |
+5 | [@vpalos](https://github.com/vpalos)/[**lua-ttyrant**](https://github.com/vpalos/lua-ttyrant) | A Lua binding for the TokyoTyrant (C) API. |
+5 | [@lexmazter](https://github.com/lexmazter)/[**dellstreak5-kernel-3…**](https://github.com/lexmazter/dellstreak5-kernel-3.4) | New kernel for Dell Streak 5, based on CAF MSM 3.4 |
+4 | [@carliv](https://github.com/carliv)/[**device_elephone_p600…**](https://github.com/carliv/device_elephone_p6000) | Device tree folder for ELEPHONE P6000 with new mt6732 (64Bit) platform. |
+4 | [@carliv](https://github.com/carliv)/[**carliv_touch_recover…**](https://github.com/carliv/carliv_touch_recovery) | [End of life - Discontinued] A custom CWM based, full touch Recovery. | [:arrow_upper_right:](http://forum.xda-developers.com/android/development/port-carliv-touch-recovery-v3-0-porting-t2970150)
+4 | [@carliv](https://github.com/carliv)/[**carliv_touch_recover…**](https://github.com/carliv/carliv_touch_recovery_new) | CWM based recovery updated to build in cm 12.1 - cm 13 - aicp lp5.1 - aicp mm6.0 source tree. | [:arrow_upper_right:](http://forum.xda-developers.com/android/software/recovery-carliv-touch-recovery-v5-1-t3389290)
+3 | [@virtosubogdan](https://github.com/virtosubogdan)/[**ProiectPRC1**](https://github.com/virtosubogdan/ProiectPRC1) | laboratory project,c | [:arrow_upper_right:](http://labs.cs.upt.ro/labs/sprc/html/index.html)
+3 | [@AndreiDuma](https://github.com/AndreiDuma)/[**arch-battery**](https://github.com/AndreiDuma/arch-battery) | Battery status utility for Fujitsu Esprimo Mobile v6555 & Arch Linux. |
+3 | [@clawoo](https://github.com/clawoo)/[**TileBasedGamePart2Co…**](https://github.com/clawoo/TileBasedGamePart2Cocos2D-x) | A porting of the Cocos2D tutorial part 2 by Ray Wenderlich to Cocos2D-x |
+2 | [@carliv](https://github.com/carliv)/[**device_zopo_zp999**](https://github.com/carliv/device_zopo_zp999) | Device tree folder for ZOPO ZP999 with new mt6595 platform. |
+2 | [@carliv](https://github.com/carliv)/[**carliv_mkbootimg_too…**](https://github.com/carliv/carliv_mkbootimg_tools) |  |
+2 | [@razvand](https://github.com/razvand)/[**snippets**](https://github.com/razvand/snippets) | Snippets, scripts, config files | [:arrow_upper_right:](http://swarm.cs.pub.ro/gitweb/?p=razvan-code.git;a=summary)
+2 | [@razvand](https://github.com/razvand)/[**osss**](https://github.com/razvand/osss) | Open Source Summer School |
+2 | [@dapetcu21](https://github.com/dapetcu21)/[**dsra**](https://github.com/dapetcu21/dsra) | Dead Simple Remote Audio - Real-time audio streaming / remote speakers |
+2 | [@clawoo](https://github.com/clawoo)/[**CCRenderTextureCocos…**](https://github.com/clawoo/CCRenderTextureCocos2D-x) | Create Dynamic Textures with CCRenderTexture in Cocos2D-x sample project |
+2 | [@popdog123](https://github.com/popdog123)/[**hardware_qcom_gps**](https://github.com/popdog123/hardware_qcom_gps) |  |
+2 | [@clawoo](https://github.com/clawoo)/[**TileBasedGamePart3Co…**](https://github.com/clawoo/TileBasedGamePart3Cocos2D-x) | A porting of the Cocos2D tutorial by GeekAndDad.com to Cocos2D-x. Work on progress. |
 
 ## :cloud: Installation
 
