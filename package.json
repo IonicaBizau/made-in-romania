@@ -78,7 +78,8 @@
           "[Swift](#swift)",
           "[TeX](#tex)",
           "[VimL](#viml)",
-          "[AutoHotkey](#autohotkey)"
+          "[AutoHotkey](#autohotkey)",
+          "[D](#d)"
         ]
       },
       {
@@ -3592,6 +3593,45 @@
               "3",
               "[@chipco](https://github.com/chipco)/[**map-maker-shapes**](https://github.com/chipco/map-maker-shapes)",
               "AutoHotKey script designed to automate adding building shapes on Google Map Maker",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "D"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@gedaiu](https://github.com/gedaiu)/[**DSWS**](https://github.com/gedaiu/DSWS)",
+              "A WebServer written in D2",
+              ""
+            ],
+            [
+              "6",
+              "[@gedaiu](https://github.com/gedaiu)/[**crate.d**](https://github.com/gedaiu/crate.d)",
+              "a D MVC framework",
+              ""
+            ],
+            [
+              "4",
+              "[@gedaiu](https://github.com/gedaiu)/[**vibe.dav**](https://github.com/gedaiu/vibe.dav)",
+              "A library that adds DAV support to vibe.d",
+              ""
+            ],
+            [
+              "2",
+              "[@TiberiuGal](https://github.com/TiberiuGal)/[**memcached4d**](https://github.com/TiberiuGal/memcached4d)",
+              "memcached client for the d programming language",
               ""
             ]
           ]

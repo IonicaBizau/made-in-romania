@@ -29,6 +29,7 @@
  - [TeX](#tex)
  - [VimL](#viml)
  - [AutoHotkey](#autohotkey)
+ - [D](#d)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -627,6 +628,13 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@chipco](https://github.com/chipco)/[**map-maker-shapes**](https://github.com/chipco/map-maker-shapes) | AutoHotKey script designed to automate adding building shapes on Google Map Maker |
+### D
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+8 | [@gedaiu](https://github.com/gedaiu)/[**DSWS**](https://github.com/gedaiu/DSWS) | A WebServer written in D2 |
+6 | [@gedaiu](https://github.com/gedaiu)/[**crate.d**](https://github.com/gedaiu/crate.d) | a D MVC framework |
+4 | [@gedaiu](https://github.com/gedaiu)/[**vibe.dav**](https://github.com/gedaiu/vibe.dav) | A library that adds DAV support to vibe.d |
+2 | [@TiberiuGal](https://github.com/TiberiuGal)/[**memcached4d**](https://github.com/TiberiuGal/memcached4d) | memcached client for the d programming language |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
