@@ -24,6 +24,7 @@
  - [Python](#python)
  - [Ruby](#ruby)
  - [Scala](#scala)
+ - [Shell](#shell)
 
 ### JavaScript
 :star2: | Name | Description | 🌍
@@ -589,6 +590,13 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@emaorhian](https://github.com/emaorhian)/[**hdfs-tachyon-file-br…**](https://github.com/emaorhian/hdfs-tachyon-file-browser) |  |
+### Shell
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+41 | [@imq](https://github.com/imq)/[**linuximq**](https://github.com/imq/linuximq) | Pseudo-driver for the intermediate queue device. |
+11 | [@noxtras](https://github.com/noxtras)/[**bashserver**](https://github.com/noxtras/bashserver) | Bash web server with the use of netcat. It supports file downloads, it servers static html, PHP, Python and binary files with arguments (GET). It checks for 404 errors and it keeps a server log. |
+11 | [@iugamarian](https://github.com/iugamarian)/[**raspberrypisetup**](https://github.com/iugamarian/raspberrypisetup) | Setup scripts to personalize Raspbian and Arch for my needs |
+3 | [@StancuFlorin](https://github.com/StancuFlorin)/[**Apache-Helper**](https://github.com/StancuFlorin/Apache-Helper) | Helper code for creating new sites and change their default DocumentRoot. |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
