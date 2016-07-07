@@ -83,7 +83,7 @@
         ]
       },
       {
-        "h3": "<a name='javascript'></a> JavaScript"
+        "h3": "<a name=\"javascript\"></a> JavaScript"
       },
       {
         "table": {
@@ -1004,7 +1004,7 @@
         }
       },
       {
-        "h3": "Java"
+        "h3": "<a name=\"java\"></a> Java"
       },
       {
         "table": {
@@ -1337,7 +1337,7 @@
         }
       },
       {
-        "h3": "<a name='csharp'></a> C# #"
+        "h3": "<a name=\"csharp\"></a> C# #"
       },
       {
         "table": {
@@ -1472,7 +1472,7 @@
         }
       },
       {
-        "h3": "CSS"
+        "h3": "<a name=\"css\"></a> CSS"
       },
       {
         "table": {
@@ -1499,7 +1499,7 @@
         }
       },
       {
-        "h3": "HTML"
+        "h3": "<a name=\"html\"></a> HTML"
       },
       {
         "table": {
@@ -1532,7 +1532,7 @@
         }
       },
       {
-        "h3": "C"
+        "h3": "<a name=\"c\"></a> C"
       },
       {
         "table": {
@@ -1709,7 +1709,7 @@
         }
       },
       {
-        "h3": "<a name='cpp'></a> C++"
+        "h3": "<a name=\"cpp\"></a> C++"
       },
       {
         "table": {
@@ -1814,7 +1814,7 @@
         }
       },
       {
-        "h3": "ActionScript"
+        "h3": "<a name=\"actionscript\"></a> ActionScript"
       },
       {
         "table": {
@@ -1847,7 +1847,7 @@
         }
       },
       {
-        "h3": "Go"
+        "h3": "<a name=\"go\"></a> Go"
       },
       {
         "table": {
@@ -1916,7 +1916,7 @@
         }
       },
       {
-        "h3": "Haskell"
+        "h3": "<a name=\"haskell\"></a> Haskell"
       },
       {
         "table": {
@@ -1949,7 +1949,7 @@
         }
       },
       {
-        "h3": "Lua"
+        "h3": "<a name=\"lua\"></a> Lua"
       },
       {
         "table": {
@@ -1976,7 +1976,7 @@
         }
       },
       {
-        "h3": "Objective-C"
+        "h3": "<a name=\"objective\"></a> Objective-C"
       },
       {
         "table": {
@@ -2189,7 +2189,7 @@
         }
       },
       {
-        "h3": "Perl"
+        "h3": "<a name=\"perl\"></a> Perl"
       },
       {
         "table": {
@@ -2324,7 +2324,7 @@
         }
       },
       {
-        "h3": "PHP"
+        "h3": "<a name=\"php\"></a> PHP"
       },
       {
         "table": {
@@ -2837,7 +2837,7 @@
         }
       },
       {
-        "h3": "Python"
+        "h3": "<a name=\"python\"></a> Python"
       },
       {
         "table": {
@@ -3254,7 +3254,7 @@
         }
       },
       {
-        "h3": "Ruby"
+        "h3": "<a name=\"ruby\"></a> Ruby"
       },
       {
         "table": {
@@ -3443,7 +3443,7 @@
         }
       },
       {
-        "h3": "Scala"
+        "h3": "<a name=\"scala\"></a> Scala"
       },
       {
         "table": {
@@ -3464,7 +3464,7 @@
         }
       },
       {
-        "h3": "Shell"
+        "h3": "<a name=\"shell\"></a> Shell"
       },
       {
         "table": {
@@ -3503,7 +3503,7 @@
         }
       },
       {
-        "h3": "Swift"
+        "h3": "<a name=\"swift\"></a> Swift"
       },
       {
         "table": {
@@ -3524,7 +3524,7 @@
         }
       },
       {
-        "h3": "TeX"
+        "h3": "<a name=\"tex\"></a> TeX"
       },
       {
         "table": {
@@ -3545,7 +3545,7 @@
         }
       },
       {
-        "h3": "VimL"
+        "h3": "<a name=\"viml\"></a> VimL"
       },
       {
         "table": {
@@ -3626,7 +3626,7 @@
         }
       },
       {
-        "h3": "AutoHotkey"
+        "h3": "<a name=\"autohotkey\"></a> AutoHotkey"
       },
       {
         "table": {
@@ -3647,7 +3647,7 @@
         }
       },
       {
-        "h3": "D"
+        "h3": "<a name=\"d\"></a> D"
       },
       {
         "table": {
