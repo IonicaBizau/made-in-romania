@@ -1841,6 +1841,12 @@
               ""
             ],
             [
+              "31",
+              "[@gpanther](https://github.com/gpanther)/[**js-geolocation**](https://github.com/gpanther/js-geolocation)",
+              "A client-side geolocation service",
+              "[:arrow_upper_right:](http://www.grey-panther.net/js-geolocation/)"
+            ],
+            [
               "12",
               "[@rif](https://github.com/rif)/[**cache2go**](https://github.com/rif/cache2go)",
               "Simple go object caching library with expiration capabilities",
