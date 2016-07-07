@@ -59,11 +59,11 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c)",
+          "[C#](#csharp)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](#c-1)",
-          "[C++](#c-2)",
+          "[C](#c)",
+          "[C++](#cpp)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "h3": "JavaScript"
+        "h3": "<a name=\"javascript\"></a> JavaScript"
       },
       {
         "table": {
@@ -107,6 +107,12 @@
               "[:arrow_upper_right:](http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js)"
             ],
             [
+              "1513",
+              "[@Aluxian](https://github.com/Aluxian)/[**Facebook-Messenger-Desktop**](https://github.com/Aluxian/Facebook-Messenger-Desktop)",
+              "Bring messenger.com to your OS X, Windows or Linux desktop.",
+              "[:arrow_upper_right:](https://messengerfordesktop.com/)"
+            ],
+            [
               "1482",
               "[@skidding](https://github.com/skidding)/[**cosmos**](https://github.com/skidding/cosmos)",
               "DX tool for designing truly encapsulated React components.",
@@ -117,6 +123,12 @@
               "[@victorstanciu](https://github.com/victorstanciu)/[**dbv**](https://github.com/victorstanciu/dbv)",
               "Database version control, made easy!",
               "[:arrow_upper_right:](http://dbv.vizuina.com)"
+            ],
+            [
+              "1218",
+              "[@Aluxian](https://github.com/Aluxian)/[**WhatsApp-Desktop**](https://github.com/Aluxian/WhatsApp-Desktop)",
+              "WhatsApp on your OS X, Windows or Linux desktop.",
+              "[:arrow_upper_right:](https://whatsie.chat/)"
             ],
             [
               "708",
@@ -147,6 +159,12 @@
               "[@ghinda](https://github.com/ghinda)/[**jotted**](https://github.com/ghinda/jotted)",
               "Environment for showcasing HTML, CSS and JavaScript, with editable source.",
               "[:arrow_upper_right:](https://ghinda.net/jotted/)"
+            ],
+            [
+              "341",
+              "[@Aluxian](https://github.com/Aluxian)/[**Whatsie**](https://github.com/Aluxian/Whatsie)",
+              "A simple & beautiful desktop client for WhatsApp Web. Chat without distractions on OS X, Windows and Linux.",
+              "[:arrow_upper_right:](https://whatsie.chat/)"
             ],
             [
               "330",
@@ -182,6 +200,12 @@
               "164",
               "[@piatra](https://github.com/piatra)/[**kreator.js**](https://github.com/piatra/kreator.js)",
               "slide tool interface for reveal.js",
+              ""
+            ],
+            [
+              "160",
+              "[@Aluxian](https://github.com/Aluxian)/[**electron-superkit**](https://github.com/Aluxian/electron-superkit)",
+              ":zap: An Electron starter kit with super powers. :zap:",
               ""
             ],
             [
@@ -236,6 +260,12 @@
               "92",
               "[@IonicaBizau](https://github.com/IonicaBizau)/[**electronify**](https://github.com/IonicaBizau/electronify)",
               ":construction_worker: The simplest way to build Electron apps.",
+              ""
+            ],
+            [
+              "85",
+              "[@Aluxian](https://github.com/Aluxian)/[**nwjs-starter**](https://github.com/Aluxian/nwjs-starter)",
+              ":zap: NW.js starter project powered by Gulp. :zap:",
               ""
             ],
             [
@@ -974,7 +1004,7 @@
         }
       },
       {
-        "h3": "Java"
+        "h3": "<a name=\"java\"></a> Java"
       },
       {
         "table": {
@@ -1208,6 +1238,12 @@
               ""
             ],
             [
+              "3",
+              "[@gpanther](https://github.com/gpanther)/[**java-nat-sort**](https://github.com/gpanther/java-nat-sort)",
+              "Java implementation of the \"natural sort\" (also known as Alphanum sort) algorithm",
+              "[:arrow_upper_right:](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22natural-comparator%22)"
+            ],
+            [
               "2",
               "[@rcosnita](https://github.com/rcosnita)/[**rdbms-reduce**](https://github.com/rcosnita/rdbms-reduce)",
               "This is a distributed reduce exercise for a scenario when resource ids are stored independently of resource details.",
@@ -1301,7 +1337,7 @@
         }
       },
       {
-        "h3": "C# #"
+        "h3": "<a name=\"csharp\"></a> C# #"
       },
       {
         "table": {
@@ -1436,7 +1472,7 @@
         }
       },
       {
-        "h3": "CSS"
+        "h3": "<a name=\"css\"></a> CSS"
       },
       {
         "table": {
@@ -1463,7 +1499,7 @@
         }
       },
       {
-        "h3": "HTML"
+        "h3": "<a name=\"html\"></a> HTML"
       },
       {
         "table": {
@@ -1496,7 +1532,7 @@
         }
       },
       {
-        "h3": "C"
+        "h3": "<a name=\"c\"></a> C"
       },
       {
         "table": {
@@ -1673,7 +1709,7 @@
         }
       },
       {
-        "h3": "C++"
+        "h3": "<a name=\"cpp\"></a> C++"
       },
       {
         "table": {
@@ -1778,7 +1814,7 @@
         }
       },
       {
-        "h3": "ActionScript"
+        "h3": "<a name=\"actionscript\"></a> ActionScript"
       },
       {
         "table": {
@@ -1811,7 +1847,7 @@
         }
       },
       {
-        "h3": "Go"
+        "h3": "<a name=\"go\"></a> Go"
       },
       {
         "table": {
@@ -1833,6 +1869,12 @@
               "[@rif](https://github.com/rif)/[**lov3lyme**](https://github.com/rif/lov3lyme)",
               "Photo contest website",
               ""
+            ],
+            [
+              "31",
+              "[@gpanther](https://github.com/gpanther)/[**js-geolocation**](https://github.com/gpanther/js-geolocation)",
+              "A client-side geolocation service",
+              "[:arrow_upper_right:](http://www.grey-panther.net/js-geolocation/)"
             ],
             [
               "12",
@@ -1874,7 +1916,7 @@
         }
       },
       {
-        "h3": "Haskell"
+        "h3": "<a name=\"haskell\"></a> Haskell"
       },
       {
         "table": {
@@ -1907,7 +1949,7 @@
         }
       },
       {
-        "h3": "Lua"
+        "h3": "<a name=\"lua\"></a> Lua"
       },
       {
         "table": {
@@ -1934,7 +1976,7 @@
         }
       },
       {
-        "h3": "Objective-C"
+        "h3": "<a name=\"objective\"></a> Objective-C"
       },
       {
         "table": {
@@ -2147,7 +2189,7 @@
         }
       },
       {
-        "h3": "Perl"
+        "h3": "<a name=\"perl\"></a> Perl"
       },
       {
         "table": {
@@ -2282,7 +2324,7 @@
         }
       },
       {
-        "h3": "PHP"
+        "h3": "<a name=\"php\"></a> PHP"
       },
       {
         "table": {
@@ -2795,7 +2837,7 @@
         }
       },
       {
-        "h3": "Python"
+        "h3": "<a name=\"python\"></a> Python"
       },
       {
         "table": {
@@ -3212,7 +3254,7 @@
         }
       },
       {
-        "h3": "Ruby"
+        "h3": "<a name=\"ruby\"></a> Ruby"
       },
       {
         "table": {
@@ -3263,6 +3305,12 @@
               "15",
               "[@maria](https://github.com/maria)/[**foregit**](https://github.com/maria/foregit)",
               "An interface between Foreman and Git",
+              ""
+            ],
+            [
+              "14",
+              "[@mess110](https://github.com/mess110/ki)/[**ki**](https://github.com/mess110/ki)",
+              "Tiny REST JSON ORM framework",
               ""
             ],
             [
@@ -3395,7 +3443,7 @@
         }
       },
       {
-        "h3": "Scala"
+        "h3": "<a name=\"scala\"></a> Scala"
       },
       {
         "table": {
@@ -3416,7 +3464,7 @@
         }
       },
       {
-        "h3": "Shell"
+        "h3": "<a name=\"shell\"></a> Shell"
       },
       {
         "table": {
@@ -3455,7 +3503,7 @@
         }
       },
       {
-        "h3": "Swift"
+        "h3": "<a name=\"swift\"></a> Swift"
       },
       {
         "table": {
@@ -3476,7 +3524,7 @@
         }
       },
       {
-        "h3": "TeX"
+        "h3": "<a name=\"tex\"></a> TeX"
       },
       {
         "table": {
@@ -3497,7 +3545,7 @@
         }
       },
       {
-        "h3": "VimL"
+        "h3": "<a name=\"viml\"></a> VimL"
       },
       {
         "table": {
@@ -3578,7 +3626,7 @@
         }
       },
       {
-        "h3": "AutoHotkey"
+        "h3": "<a name=\"autohotkey\"></a> AutoHotkey"
       },
       {
         "table": {
@@ -3599,7 +3647,7 @@
         }
       },
       {
-        "h3": "D"
+        "h3": "<a name=\"d\"></a> D"
       },
       {
         "table": {
