@@ -31,7 +31,7 @@
  - [AutoHotkey](#autohotkey)
  - [D](#d)
 
-### <a name="javascript"></a>JavaScript
+### <a name='javascript'></a> JavaScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3758 | [@IonicaBizau](https://github.com/IonicaBizau)/[**git-stats**](https://github.com/IonicaBizau/git-stats) | :four_leaf_clover: Local git statistics including GitHub-like contributions calendars. |
@@ -39,7 +39,7 @@
 1513 | [@Aluxian](https://github.com/Aluxian)/[**Facebook-Messenger-Desktop**](https://github.com/Aluxian/Facebook-Messenger-Desktop) | Bring messenger.com to your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://messengerfordesktop.com/)
 1482 | [@skidding](https://github.com/skidding)/[**cosmos**](https://github.com/skidding/cosmos) | DX tool for designing truly encapsulated React components. | [:arrow_upper_right:](https://www.youtube.com/watch?v=t9V2oKK83Kg)
 1423 | [@victorstanciu](https://github.com/victorstanciu)/[**dbv**](https://github.com/victorstanciu/dbv) | Database version control, made easy! | [:arrow_upper_right:](http://dbv.vizuina.com)
-1513 | [@Aluxian](https://github.com/Aluxian)/[**WhatsApp-Desktop**](https://github.com/Aluxian/WhatsApp-Desktop) | Use WhatsApp on your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://whatsie.chat/)
+1218 | [@Aluxian](https://github.com/Aluxian)/[**WhatsApp-Desktop**](https://github.com/Aluxian/WhatsApp-Desktop) | WhatsApp on your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://whatsie.chat/)
 708 | [@skidding](https://github.com/skidding)/[**dragdealer**](https://github.com/skidding/dragdealer) | Drag-based JavaScript component, embracing endless UI solutions | [:arrow_upper_right:](http://skidding.github.io/dragdealer)
 547 | [@flaviusmatis](https://github.com/flaviusmatis)/[**simplePagination.js**](https://github.com/flaviusmatis/simplePagination.js) | A simple jQuery pagination plugin. |
 464 | [@cthackers](https://github.com/cthackers)/[**adm-zip**](https://github.com/cthackers/adm-zip) | A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk |
@@ -185,7 +185,7 @@
 2 | [@alessioalex](https://github.com/alessioalex)/[**git-authors**](https://github.com/alessioalex/git-authors) | List all authors that have contributed to a git project in descending order, based on the number of commits. |
 2 | [@cronco](https://github.com/cronco)/[**lightsout**](https://github.com/cronco/lightsout) | Discarded code for some small experiment with the lights out logo. |
 2 | [@igstan](https://github.com/igstan)/[**xul-commander**](https://github.com/igstan/xul-commander) |  |
-### <a name="java"></a>Java
+### Java
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 472 | [@alexo](https://github.com/alexo)/[**wro4j**](https://github.com/alexo/wro4j) | New project location is:https://github.com/wro4j/wro4j |
@@ -225,6 +225,7 @@
 3 | [@eugenp](https://github.com/eugenp)/[**stackexchange2twitte…**](https://github.com/eugenp/stackexchange2twitter) | Tweets the Top Questions from various StackExchange Q&A Sites |
 3 | [@alexbuicescu](https://github.com/alexbuicescu)/[**android-workshop**](https://github.com/alexbuicescu/android-workshop) |  |
 3 | [@aismail](https://github.com/aismail)/[**KinectHacking**](https://github.com/aismail/KinectHacking) | Boilerplate code for getting started with Kinect on Java and Linux |
+3 | [@gpanther](https://github.com/gpanther)/[**java-nat-sort**](https://github.com/gpanther/java-nat-sort) | Java implementation of the "natural sort" (also known as Alphanum sort) algorithm | [:arrow_upper_right:](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22natural-comparator%22)
 2 | [@rcosnita](https://github.com/rcosnita)/[**rdbms-reduce**](https://github.com/rcosnita/rdbms-reduce) | This is a distributed reduce exercise for a scenario when resource ids are stored independently of resource details. |
 2 | [@alexo](https://github.com/alexo)/[**diffable**](https://github.com/alexo/diffable) | Unofficial mirror of diffable project | [:arrow_upper_right:](http://code.google.com/p/diffable)
 2 | [@eugenp](https://github.com/eugenp)/[**cloudControl**](https://github.com/eugenp/cloudControl) | simple webapp to control cloud machine lifecycle |
@@ -240,7 +241,7 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
-### <a name="csharp"></a>C# #
+### <a name='csharp'></a> C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 401 | [@etishor](https://github.com/etishor)/[**Metrics.NET**](https://github.com/etishor/Metrics.NET) | The Metrics.NET library provides a way of instrumenting applications with custom metrics (timers, histograms, counters etc) that can be reported in various ways and can provide insights on what is happening inside a running application. |
@@ -263,18 +264,18 @@
 2 | [@paratechnical](https://github.com/paratechnical)/[**PrefixTreeCSharp**](https://github.com/paratechnical/PrefixTreeCSharp) | Prefix Tree Implementation in C# | [:arrow_upper_right:](http://paratechnical.blogspot.ro/)
 2 | [@quitrk](https://github.com/quitrk)/[**MiniDeskTube**](https://github.com/quitrk/MiniDeskTube) | YouTube Windows desktop application |
 2 | [@myo](https://github.com/myo)/[**LeagueSharp**](https://github.com/myo/LeagueSharp) |  |
-### <a name="css"></a>CSS
+### CSS
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@DanielPintilei](https://github.com/DanielPintilei)/[**Cake**](https://github.com/DanielPintilei/Cake) | Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
 12 | [@DanielPintilei](https://github.com/DanielPintilei)/[**cake-atom-syntax**](https://github.com/DanielPintilei/cake-atom-syntax) | Yummy syntax theme for Atom | [:arrow_upper_right:](https://danielpintilei.cf/Cake)
-### <a name="html"></a>HTML
+### HTML
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@acasaprogramming](https://github.com/acasaprogramming)/[**Minimal-Portfolio-wi…**](https://github.com/acasaprogramming/Minimal-Portfolio-with-Bootstrap-3-and-Shuffle.js) |  |
 2 | [@OvidiuCaba](https://github.com/OvidiuCaba)/[**StatisticsRomania**](https://github.com/OvidiuCaba/StatisticsRomania) |  |
 2 | [@harababurel](https://github.com/harababurel)/[**homework**](https://github.com/harababurel/homework) | collection of lab projects and homework for university |
-### <a name="c"></a>C
+### C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 59 | [@clawoo](https://github.com/clawoo)/[**AsteroidsCocos2D-x**](https://github.com/clawoo/AsteroidsCocos2D-x) | An Asteroids game implemented in Cocos2D-x |
@@ -304,7 +305,7 @@
 2 | [@clawoo](https://github.com/clawoo)/[**CCRenderTextureCocos…**](https://github.com/clawoo/CCRenderTextureCocos2D-x) | Create Dynamic Textures with CCRenderTexture in Cocos2D-x sample project |
 2 | [@carliv](https://github.com/carliv)/[**device_zopo_zp999**](https://github.com/carliv/device_zopo_zp999) | Device tree folder for ZOPO ZP999 with new mt6595 platform. |
 2 | [@clawoo](https://github.com/clawoo)/[**TileBasedGamePart3Co…**](https://github.com/clawoo/TileBasedGamePart3Cocos2D-x) | A porting of the Cocos2D tutorial by GeekAndDad.com to Cocos2D-x. Work on progress. |
-### <a name="cpp"></a>C++
+### <a name='cpp'></a> C++
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 58 | [@rodan](https://github.com/rodan)/[**ds3231**](https://github.com/rodan/ds3231) | arduino library for DS3231 RTC | [:arrow_upper_right:](http://www.maxim-ic.com/datasheet/index.mvp/id/4627)
@@ -322,35 +323,36 @@
 3 | [@rusucosmin](https://github.com/rusucosmin)/[**Hai-la-Olimpiada**](https://github.com/rusucosmin/Hai-la-Olimpiada) | Some of the problems and sources discussed |
 2 | [@rodan](https://github.com/rodan)/[**honeywell_hsc_ssc_i2…**](https://github.com/rodan/honeywell_hsc_ssc_i2c) | avr library for honeywell hsc and ssc series pressure sensors (i2c version) |
 2 | [@cprogrammer1994](https://github.com/cprogrammer1994)/[**Process-Manipulation**](https://github.com/cprogrammer1994/Process-Manipulation) | Process Manipulation from Python |
-### <a name="actionscript"></a>ActionScript
+### ActionScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@badu](https://github.com/badu)/[**SparkComponents**](https://github.com/badu/SparkComponents) | Missing Spark Components on Flex SDK 4.6.0 | [:arrow_upper_right:](http://www.badu.ro)
 6 | [@cosmindolha](https://github.com/cosmindolha)/[**ParticleDesigner**](https://github.com/cosmindolha/ParticleDesigner) | Particle Designer for the Starling framework (ActionScript 3) |
 5 | [@cipriancaba](https://github.com/cipriancaba)/[**flash-console**](https://github.com/cipriancaba/flash-console) | flash-console fork from https://code.google.com/p/flash-console/ |
-### <a name="go"></a>Go
+### Go
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 430 | [@rif](https://github.com/rif)/[**spark**](https://github.com/rif/spark) | Emergency web server |
 54 | [@rif](https://github.com/rif)/[**lov3lyme**](https://github.com/rif/lov3lyme) | Photo contest website |
+31 | [@gpanther](https://github.com/gpanther)/[**js-geolocation**](https://github.com/gpanther/js-geolocation) | A client-side geolocation service | [:arrow_upper_right:](http://www.grey-panther.net/js-geolocation/)
 12 | [@rif](https://github.com/rif)/[**cache2go**](https://github.com/rif/cache2go) | Simple go object caching library with expiration capabilities |
 9 | [@rif](https://github.com/rif)/[**gmail2go**](https://github.com/rif/gmail2go) | Simple gmail multiple account mail notification command line |
 3 | [@adrg](https://github.com/adrg)/[**xdg**](https://github.com/adrg/xdg) | Go implementation of the XDG Base Directory Specification |
 2 | [@adrg](https://github.com/adrg)/[**sysinfo**](https://github.com/adrg/sysinfo) | Provides system information |
 2 | [@adrg](https://github.com/adrg)/[**libvlc-go**](https://github.com/adrg/libvlc-go) | Golang bindings for libvlc |
 2 | [@adrg](https://github.com/adrg)/[**youtube-go**](https://github.com/adrg/youtube-go) | Search Youtube and get video information |
-### <a name="haskell"></a>Haskell
+### Haskell
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@haskell-ro](https://github.com/haskell-ro)/[**haskell-workshop**](https://github.com/haskell-ro/haskell-workshop) | "Tweλve days of functional programming" Workshop @ ROSEdu Summer Workshops |
 4 | [@spyked](https://github.com/spyked)/[**negotiator**](https://github.com/spyked/negotiator) | automated negotiator with bounded rational agents |
 3 | [@spyked](https://github.com/spyked)/[**writer-monkey**](https://github.com/spyked/writer-monkey) | Markov text generator written in Haskell |
-### <a name="lua"></a>Lua
+### Lua
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@luadns](https://github.com/luadns)/[**dns**](https://github.com/luadns/dns) | Example DNS repository | [:arrow_upper_right:](http://www.luadns.com/help.html)
 3 | [@seastorm](https://github.com/seastorm)/[**test-code-samples**](https://github.com/seastorm/test-code-samples) | Various pieces of code (often unfinished) that can be useful |
-### <a name="objective"></a>Objective-C
+### Objective-C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1032 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
@@ -386,7 +388,7 @@
 2 | [@alexbumbu](https://github.com/alexbumbu)/[**ABDataSourceControll…**](https://github.com/alexbumbu/ABDataSourceController) | Simple Objective-C and Swift implementation for getting rid of your UITableView & UICollectionView delegate and data source code from your UIViewController and share it between UIViewControllers. |
 2 | [@alexcovaci](https://github.com/alexcovaci)/[**BTProximity**](https://github.com/alexcovaci/BTProximity) | Lock/Unlock your Mac with any Bluetooth device |
 2 | [@lucianboboc](https://github.com/lucianboboc)/[**NSArray-LBcategory**](https://github.com/lucianboboc/NSArray-LBcategory) | NSArray category that helps you working with JSON, adds extra security. |
-### <a name="perl"></a>Perl
+### Perl
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 161 | [@trizen](https://github.com/trizen)/[**youtube-viewer**](https://github.com/trizen/youtube-viewer) | A lightweight application for searching and streaming videos from YouTube. | [:arrow_upper_right:](http://trizenx.blogspot.ro/2012/03/gtk-youtube-viewer.html)
@@ -409,7 +411,7 @@
 2 | [@stefansbv](https://github.com/stefansbv)/[**delicios**](https://github.com/stefansbv/delicios) | A cooking recipes web application built with Dancer2 and Bootstrap3. |
 2 | [@stefansbv](https://github.com/stefansbv)/[**perl-business-ro-cif**](https://github.com/stefansbv/perl-business-ro-cif) | Validate Romanian CIF |
 2 | [@slaash](https://github.com/slaash)/[**scripts**](https://github.com/slaash/scripts) | RubyScripts |
-### <a name="php"></a>PHP
+### PHP
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 770 | [@scribu](https://github.com/scribu)/[**wp-posts-to-posts**](https://github.com/scribu/wp-posts-to-posts) | Efficient many-to-many connections between posts, pages, custom post types, users. | [:arrow_upper_right:](http://wordpress.org/plugins/posts-to-posts/)
@@ -495,7 +497,7 @@
 2 | [@psychoticmeow](https://github.com/psychoticmeow)/[**nbsp.io**](https://github.com/psychoticmeow/nbsp.io) |  |
 2 | [@palcu](https://github.com/palcu)/[**vms**](https://github.com/palcu/vms) | Volunteer Management System | [:arrow_upper_right:](http://voluntari.cicvalcea.ro/)
 2 | [@scribu](https://github.com/scribu)/[**wp-filter-email-noti…**](https://github.com/scribu/wp-filter-email-notifications) |  | [:arrow_upper_right:](http://wordpress.org/extend/plugins/filter-email-notifications/)
-### <a name="python"></a>Python
+### Python
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 177 | [@ionelmc](https://github.com/ionelmc)/[**django-redisboard**](https://github.com/ionelmc/django-redisboard) | Redis monitoring and inspection tool in django admin. | [:arrow_upper_right:](https://pypi.python.org/pypi/django-redisboard)
@@ -565,7 +567,7 @@
 2 | [@ionelmc](https://github.com/ionelmc)/[**pylint-fields**](https://github.com/ionelmc/pylint-fields) | Pylint plugin for python-fields |
 2 | [@ionelmc](https://github.com/ionelmc)/[**python-su**](https://github.com/ionelmc/python-su) |  |
 2 | [@mgax](https://github.com/mgax)/[**hgPatcher**](https://github.com/mgax/hgPatcher) | Repackaging of Mercurial's patch code |
-### <a name="ruby"></a>Ruby
+### Ruby
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 128 | [@vitalie](https://github.com/vitalie)/[**webshot**](https://github.com/vitalie/webshot) | Captures a web page as a screenshot. |
@@ -575,6 +577,7 @@
 24 | [@andreimaxim](https://github.com/andreimaxim)/[**guard-unicorn**](https://github.com/andreimaxim/guard-unicorn) | Guard::Unicorn automatically restarts the Unicorn server using Guard. |
 16 | [@ducknorris](https://github.com/ducknorris)/[**rack-env-notifier**](https://github.com/ducknorris/rack-env-notifier) | Middleware that displays a custom notification for every html page. Designed to work both in production and in development. | [:arrow_upper_right:](http://ducknorris.github.io/rack-env-notifier)
 15 | [@maria](https://github.com/maria)/[**foregit**](https://github.com/maria/foregit) | An interface between Foreman and Git |
+14 | [@mess110](https://github.com/mess110/ki)/[**ki**](https://github.com/mess110/ki) | Tiny REST JSON ORM framework |
 13 | [@sergiutruta](https://github.com/sergiutruta)/[**blogpub**](https://github.com/sergiutruta/blogpub) | social networking framework with multi user blogs, developed in Rails 2.0.2 completely RESTful | [:arrow_upper_right:](http://blogpub.ro)
 9 | [@viseztrance](https://github.com/viseztrance)/[**website_screenshot**](https://github.com/viseztrance/website_screenshot) | Takes screenshots of websites |
 8 | [@icebreaker](https://github.com/icebreaker)/[**sniknej**](https://github.com/icebreaker/sniknej) |  Sniknej is a standalone front-end for Jenkins. |
@@ -596,26 +599,26 @@
 2 | [@cristianbica](https://github.com/cristianbica)/[**active_job-query**](https://github.com/cristianbica/active_job-query) | ActiveJob Query API |
 2 | [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 2 | [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
-### <a name="scala"></a>Scala
+### Scala
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@emaorhian](https://github.com/emaorhian)/[**hdfs-tachyon-file-br…**](https://github.com/emaorhian/hdfs-tachyon-file-browser) |  |
-### <a name="shell"></a>Shell
+### Shell
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 41 | [@imq](https://github.com/imq)/[**linuximq**](https://github.com/imq/linuximq) | Pseudo-driver for the intermediate queue device. |
 11 | [@noxtras](https://github.com/noxtras)/[**bashserver**](https://github.com/noxtras/bashserver) | Bash web server with the use of netcat. It supports file downloads, it servers static html, PHP, Python and binary files with arguments (GET). It checks for 404 errors and it keeps a server log. |
 11 | [@iugamarian](https://github.com/iugamarian)/[**raspberrypisetup**](https://github.com/iugamarian/raspberrypisetup) | Setup scripts to personalize Raspbian and Arch for my needs |
 3 | [@StancuFlorin](https://github.com/StancuFlorin)/[**Apache-Helper**](https://github.com/StancuFlorin/Apache-Helper) | Helper code for creating new sites and change their default DocumentRoot. |
-### <a name="swift"></a>Swift
+### Swift
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift) | Parse, iOS, Swift, MapKit |
-### <a name="tex"></a>TeX
+### TeX
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@nlp-unibuc](https://github.com/nlp-unibuc)/[**nlp-unibuc-website**](https://github.com/nlp-unibuc/nlp-unibuc-website) | Source code for generating our static website. |
-### <a name="viml"></a>VimL
+### VimL
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 103 | [@Bogdanp](https://github.com/Bogdanp)/[**browser-connect.vim**](https://github.com/Bogdanp/browser-connect.vim) | Live browser interaction for VIM. |
@@ -629,11 +632,11 @@
 3 | [@saintandy](https://github.com/saintandy)/[**dotfiles**](https://github.com/saintandy/dotfiles) | My dotfiles for mac |
 2 | [@printesoi](https://github.com/printesoi)/[**dotfiles**](https://github.com/printesoi/dotfiles) | My personal dotfiles |
 2 | [@mihaifm](https://github.com/mihaifm)/[**bck**](https://github.com/mihaifm/bck) | Enhanced searching for Vim |
-### <a name="autohotkey"></a>AutoHotkey
+### AutoHotkey
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@chipco](https://github.com/chipco)/[**map-maker-shapes**](https://github.com/chipco/map-maker-shapes) | AutoHotKey script designed to automate adding building shapes on Google Map Maker |
-### <a name="d"></a>D
+### D
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@gedaiu](https://github.com/gedaiu)/[**DSWS**](https://github.com/gedaiu/DSWS) | A WebServer written in D2 |

@@ -59,11 +59,11 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c)",
+          "[C#](#csharp)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](#c-1)",
-          "[C++](#c-2)",
+          "[C](#c)",
+          "[C++](#cpp)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "h3": "JavaScript"
+        "h3": "<a name='javascript'></a> JavaScript"
       },
       {
         "table": {
@@ -107,6 +107,12 @@
               "[:arrow_upper_right:](http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js)"
             ],
             [
+              "1513",
+              "[@Aluxian](https://github.com/Aluxian)/[**Facebook-Messenger-Desktop**](https://github.com/Aluxian/Facebook-Messenger-Desktop)",
+              "Bring messenger.com to your OS X, Windows or Linux desktop.",
+              "[:arrow_upper_right:](https://messengerfordesktop.com/)"
+            ],
+            [
               "1482",
               "[@skidding](https://github.com/skidding)/[**cosmos**](https://github.com/skidding/cosmos)",
               "DX tool for designing truly encapsulated React components.",
@@ -117,6 +123,12 @@
               "[@victorstanciu](https://github.com/victorstanciu)/[**dbv**](https://github.com/victorstanciu/dbv)",
               "Database version control, made easy!",
               "[:arrow_upper_right:](http://dbv.vizuina.com)"
+            ],
+            [
+              "1218",
+              "[@Aluxian](https://github.com/Aluxian)/[**WhatsApp-Desktop**](https://github.com/Aluxian/WhatsApp-Desktop)",
+              "WhatsApp on your OS X, Windows or Linux desktop.",
+              "[:arrow_upper_right:](https://whatsie.chat/)"
             ],
             [
               "708",
@@ -147,6 +159,12 @@
               "[@ghinda](https://github.com/ghinda)/[**jotted**](https://github.com/ghinda/jotted)",
               "Environment for showcasing HTML, CSS and JavaScript, with editable source.",
               "[:arrow_upper_right:](https://ghinda.net/jotted/)"
+            ],
+            [
+              "341",
+              "[@Aluxian](https://github.com/Aluxian)/[**Whatsie**](https://github.com/Aluxian/Whatsie)",
+              "A simple & beautiful desktop client for WhatsApp Web. Chat without distractions on OS X, Windows and Linux.",
+              "[:arrow_upper_right:](https://whatsie.chat/)"
             ],
             [
               "330",
@@ -182,6 +200,12 @@
               "164",
               "[@piatra](https://github.com/piatra)/[**kreator.js**](https://github.com/piatra/kreator.js)",
               "slide tool interface for reveal.js",
+              ""
+            ],
+            [
+              "160",
+              "[@Aluxian](https://github.com/Aluxian)/[**electron-superkit**](https://github.com/Aluxian/electron-superkit)",
+              ":zap: An Electron starter kit with super powers. :zap:",
               ""
             ],
             [
@@ -236,6 +260,12 @@
               "92",
               "[@IonicaBizau](https://github.com/IonicaBizau)/[**electronify**](https://github.com/IonicaBizau/electronify)",
               ":construction_worker: The simplest way to build Electron apps.",
+              ""
+            ],
+            [
+              "85",
+              "[@Aluxian](https://github.com/Aluxian)/[**nwjs-starter**](https://github.com/Aluxian/nwjs-starter)",
+              ":zap: NW.js starter project powered by Gulp. :zap:",
               ""
             ],
             [
@@ -1307,7 +1337,7 @@
         }
       },
       {
-        "h3": "C# #"
+        "h3": "<a name='csharp'></a> C# #"
       },
       {
         "table": {
@@ -1679,7 +1709,7 @@
         }
       },
       {
-        "h3": "C++"
+        "h3": "<a name='cpp'></a> C++"
       },
       {
         "table": {
