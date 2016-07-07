@@ -235,7 +235,7 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
-### C#
+### C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 401 | [@etishor](https://github.com/etishor)/[**Metrics.NET**](https://github.com/etishor/Metrics.NET) | The Metrics.NET library provides a way of instrumenting applications with custom metrics (timers, histograms, counters etc) that can be reported in various ways and can provide insights on what is happening inside a running application. |
