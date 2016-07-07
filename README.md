@@ -36,19 +36,23 @@
 --- | --- | --- | ---
 3758 | [@IonicaBizau](https://github.com/IonicaBizau)/[**git-stats**](https://github.com/IonicaBizau/git-stats) | :four_leaf_clover: Local git statistics including GitHub-like contributions calendars. |
 2112 | [@IonicaBizau](https://github.com/IonicaBizau)/[**scrape-it**](https://github.com/IonicaBizau/scrape-it) | :crystal_ball: A Node.js scraper for humans. | [:arrow_upper_right:](http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js)
+1513 | [@Aluxian](https://github.com/Aluxian)/[**Facebook-Messenger-Desktop**](https://github.com/Aluxian/Facebook-Messenger-Desktop) | Bring messenger.com to your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://messengerfordesktop.com/)
 1482 | [@skidding](https://github.com/skidding)/[**cosmos**](https://github.com/skidding/cosmos) | DX tool for designing truly encapsulated React components. | [:arrow_upper_right:](https://www.youtube.com/watch?v=t9V2oKK83Kg)
 1423 | [@victorstanciu](https://github.com/victorstanciu)/[**dbv**](https://github.com/victorstanciu/dbv) | Database version control, made easy! | [:arrow_upper_right:](http://dbv.vizuina.com)
+1513 | [@Aluxian](https://github.com/Aluxian)/[**WhatsApp-Desktop**](https://github.com/Aluxian/WhatsApp-Desktop) | Use WhatsApp on your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://whatsie.chat/)
 708 | [@skidding](https://github.com/skidding)/[**dragdealer**](https://github.com/skidding/dragdealer) | Drag-based JavaScript component, embracing endless UI solutions | [:arrow_upper_right:](http://skidding.github.io/dragdealer)
 547 | [@flaviusmatis](https://github.com/flaviusmatis)/[**simplePagination.js**](https://github.com/flaviusmatis/simplePagination.js) | A simple jQuery pagination plugin. |
 464 | [@cthackers](https://github.com/cthackers)/[**adm-zip**](https://github.com/cthackers/adm-zip) | A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk |
 347 | [@alessioalex](https://github.com/alessioalex)/[**ClientManager**](https://github.com/alessioalex/ClientManager) | Sample application built with Backbone, RequireJS and Twitter Bootstrap on the client and Node.js (Express.js, Mongoose) on the server. |
 347 | [@ghinda](https://github.com/ghinda)/[**jotted**](https://github.com/ghinda/jotted) | Environment for showcasing HTML, CSS and JavaScript, with editable source. | [:arrow_upper_right:](https://ghinda.net/jotted/)
+341 | [@Aluxian](https://github.com/Aluxian)/[**Whatsie**](https://github.com/Aluxian/Whatsie) | A simple & beautiful desktop client for WhatsApp Web. Chat without distractions on OS X, Windows and Linux. | [:arrow_upper_right:](https://whatsie.chat/)
 330 | [@IonicaBizau](https://github.com/IonicaBizau)/[**image-to-ascii**](https://github.com/IonicaBizau/image-to-ascii) | :floppy_disk: A Node.js module that converts images to ASCII art. | [:arrow_upper_right:](http://ionicabizau.net/blog/16)
 310 | [@IonicaBizau](https://github.com/IonicaBizau)/[**medium-editor-markdo…**](https://github.com/IonicaBizau/medium-editor-markdown) | :pencil: A Medium Editor extension to add markdown support. | [:arrow_upper_right:](http://ionicabizau.github.io/medium-editor-markdown/)
 304 | [@balajmarius](https://github.com/balajmarius)/[**adi.js**](https://github.com/balajmarius/adi.js) | :japanese_ogre: Adblock Identifier |
 225 | [@IonicaBizau](https://github.com/IonicaBizau)/[**cli-github**](https://github.com/IonicaBizau/cli-github) | :smile_cat: A fancy GitHub client for command line. | [:arrow_upper_right:](http://ionicabizau.net/blog/15)
 210 | [@stefangabos](https://github.com/stefangabos)/[**Zebra_Datepicker**](https://github.com/stefangabos/Zebra_Datepicker) | A super-lightweight, highly configurable, cross-browser date picker jQuery plugin. | [:arrow_upper_right:](http://stefangabos.ro/jquery/zebra-datepicker/)
 164 | [@piatra](https://github.com/piatra)/[**kreator.js**](https://github.com/piatra/kreator.js) | slide tool interface for reveal.js |
+160 | [@Aluxian](https://github.com/Aluxian)/[**electron-superkit**](https://github.com/Aluxian/electron-superkit) | :zap: An Electron starter kit with super powers. :zap: |
 157 | [@IonicaBizau](https://github.com/IonicaBizau)/[**youtube-api**](https://github.com/IonicaBizau/youtube-api) | :video_camera: A Node.JS module, which provides an object oriented wrapper for the YouTube v3 API. |
 142 | [@IonicaBizau](https://github.com/IonicaBizau)/[**github-stats**](https://github.com/IonicaBizau/github-stats) | :chart_with_upwards_trend: Visualize stats about GitHub users and projects in your terminal. |
 131 | [@icflorescu](https://github.com/icflorescu)/[**iisexpress-proxy**](https://github.com/icflorescu/iisexpress-proxy) | A simple local proxy for accessing IIS Express from remote machines. |
@@ -58,6 +62,7 @@
 94 | [@skidding](https://github.com/skidding)/[**flatris**](https://github.com/skidding/flatris) | Flatris is demo app for Cosmos, built using React components. | [:arrow_upper_right:](http://skidding.github.io/flatris)
 92 | [@ghinda](https://github.com/ghinda)/[**acornmediaplayer**](https://github.com/ghinda/acornmediaplayer) | Accessible and easily customizable HTML 5 media player, as a jQuery plugin. | [:arrow_upper_right:](http://ghinda.net/acornmediaplayer)
 92 | [@IonicaBizau](https://github.com/IonicaBizau)/[**electronify**](https://github.com/IonicaBizau/electronify) | :construction_worker: The simplest way to build Electron apps. |
+85 | [@Aluxian](https://github.com/Aluxian)/[**nwjs-starter**](https://github.com/Aluxian/nwjs-starter) | :zap: NW.js starter project powered by Gulp. :zap: |
 75 | [@ghinda](https://github.com/ghinda)/[**angular-meditor**](https://github.com/ghinda/angular-meditor) | Simple floating text editor for Angular, inspired by Medium. | [:arrow_upper_right:](http://ghinda.net/angular-meditor)
 73 | [@skidding](https://github.com/skidding)/[**aufond**](https://github.com/skidding/aufond) | A résumé for the modern age | [:arrow_upper_right:](http://aufond.me)
 70 | [@skidding](https://github.com/skidding)/[**react-component-play…**](https://github.com/skidding/react-component-playground) | Minimal frame for loading and testing React components in isolation. |
