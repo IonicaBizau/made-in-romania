@@ -1208,6 +1208,12 @@
               ""
             ],
             [
+              "3",
+              "[@gpanther](https://github.com/gpanther)/[**java-nat-sort**](https://github.com/gpanther/java-nat-sort)",
+              "Java implementation of the \"natural sort\" (also known as Alphanum sort) algorithm",
+              "[:arrow_upper_right:](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22natural-comparator%22)"
+            ],
+            [
               "2",
               "[@rcosnita](https://github.com/rcosnita)/[**rdbms-reduce**](https://github.com/rcosnita/rdbms-reduce)",
               "This is a distributed reduce exercise for a scenario when resource ids are stored independently of resource details.",
@@ -1833,6 +1839,12 @@
               "[@rif](https://github.com/rif)/[**lov3lyme**](https://github.com/rif/lov3lyme)",
               "Photo contest website",
               ""
+            ],
+            [
+              "31",
+              "[@gpanther](https://github.com/gpanther)/[**js-geolocation**](https://github.com/gpanther/js-geolocation)",
+              "A client-side geolocation service",
+              "[:arrow_upper_right:](http://www.grey-panther.net/js-geolocation/)"
             ],
             [
               "12",
