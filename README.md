@@ -9,7 +9,7 @@
 
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](undefined)
+ - [C#](#c)
  - [CSS](#css)
  - [HTML](#html)
  - [C](#c-1)
