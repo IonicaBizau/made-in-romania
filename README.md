@@ -352,7 +352,7 @@
 --- | --- | --- | ---
 17 | [@luadns](https://github.com/luadns)/[**dns**](https://github.com/luadns/dns) | Example DNS repository | [:arrow_upper_right:](http://www.luadns.com/help.html)
 3 | [@seastorm](https://github.com/seastorm)/[**test-code-samples**](https://github.com/seastorm/test-code-samples) | Various pieces of code (often unfinished) that can be useful |
-### <a name="objective"></a> Objective-C
+### <a name="objective-c"></a> Objective-C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1032 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
