@@ -648,6 +648,12 @@
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
+## :sparkles: Related
+
+ - [`made-in-brazil`](https://github.com/IonicaBizau/made-in-brazil#readme)—A list of neat projects made in Brazil.
+
+
+
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
