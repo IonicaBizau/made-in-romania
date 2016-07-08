@@ -614,6 +614,7 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@Topmobile106](https://github.com/Topmobile106)/[**Parse-iOS-Swift**](https://github.com/Topmobile106/Parse-iOS-Swift) | Parse, iOS, Swift, MapKit |
+2 | [@alexbumbu](https://github.com/alexbumbu)/[**ABDataSourceControll…**](https://github.com/alexbumbu/ABDataSourceController) | Simple Objective-C and Swift implementation for getting rid of your UITableView & UICollectionView delegate and data source code from your UIViewController and share it between UIViewControllers. |
 ### <a name="tex"></a> TeX
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
