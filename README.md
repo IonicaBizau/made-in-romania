@@ -34,7 +34,7 @@
 ### <a name="javascript"></a> JavaScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-5038 | [@mishoo](https://github.com/mishoo)/[**UglifyJS2**](https://github.com/mishoo/UglifyJS2) | JavaScript parser / mangler / compressor / beautifier toolkit | http://lisperator.net/uglifyjs/
+5038 | [@mishoo](https://github.com/mishoo)/[**UglifyJS2**](https://github.com/mishoo/UglifyJS2) | JavaScript parser / mangler / compressor / beautifier toolkit | [:arrow_upper_right:](http://lisperator.net/uglifyjs/)
 3758 | [@IonicaBizau](https://github.com/IonicaBizau)/[**git-stats**](https://github.com/IonicaBizau/git-stats) | :four_leaf_clover: Local git statistics including GitHub-like contributions calendars. |
 2112 | [@IonicaBizau](https://github.com/IonicaBizau)/[**scrape-it**](https://github.com/IonicaBizau/scrape-it) | :crystal_ball: A Node.js scraper for humans. | [:arrow_upper_right:](http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js)
 1513 | [@Aluxian](https://github.com/Aluxian)/[**Facebook-Messenger-Desktop**](https://github.com/Aluxian/Facebook-Messenger-Desktop) | Bring messenger.com to your OS X, Windows or Linux desktop. | [:arrow_upper_right:](https://messengerfordesktop.com/)
