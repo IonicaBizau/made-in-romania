@@ -190,7 +190,9 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 472 | [@alexo](https://github.com/alexo)/[**wro4j**](https://github.com/alexo/wro4j) | New project location is:https://github.com/wro4j/wro4j |
+451 | [@decebals](https://github.com/decebals)[**pippo**](https://github.com/decebals/pippo) Micro Java Web Framework |
 440 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
+363 | [@decebals](https://github.com/decebals)[**pf4j**](https://github.com/decebals/pf4j) Plugin Framework for Java (PF4J) |
 209 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
 88 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
 64 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
