@@ -602,6 +602,7 @@
 2 | [@cristianbica](https://github.com/cristianbica)/[**active_job-query**](https://github.com/cristianbica/active_job-query) | ActiveJob Query API |
 2 | [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 2 | [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
+1 | [@chalmagean](https://github.com/chalmagean)/[**git_feature**](https://github.com/chalmagean/git_feature) | Converts an issue title or ticket number to a pipeable branch name |
 ### <a name="scala"></a> Scala
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
