@@ -2395,7 +2395,7 @@
             [
               "112",
               "[@tabacitu](https://github.com/tabacitu)/[**BackpackForLaravel**](https://github.com/Laravel-Backpack/CRUD)",
-              "Admin panels the right way in Laravel. Needs [Backpack\Base](https://github.com/Laravel-Backpack/Base) to be installed.",
+              "Admin panels the right way in Laravel. Needs [Backpack\\Base](https://github.com/Laravel-Backpack/Base) to be installed.",
               "[:arrow_upper_right:](http://backpackforlaravel.com)"
             ],
             [
