@@ -12,7 +12,7 @@
     "projects"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -49,7 +49,9 @@
     "w-json": "^1.3.3"
   },
   "blah": {
-    "related": ["made-in-brazil"],
+    "related": [
+      "made-in-brazil"
+    ],
     "show_installation": false,
     "title": "Made in Romania",
     "installation": [
@@ -1028,7 +1030,7 @@
               "New project location is:https://github.com/wro4j/wro4j",
               ""
             ],
-	    [
+            [
               "451",
               "[@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo)",
               "Micro Java Web Framework:",
@@ -1039,7 +1041,8 @@
               "[@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring)",
               "The \"REST With Spring\" Classes:",
               "[:arrow_upper_right:](http://bit.ly/restwithspring)"
-            ],[
+            ],
+            [
               "363",
               "[@decebals](https://github.com/pf4j)/[**pf4j**](https://github.com/decebals/pf4j)",
               "Plugin Framework for Java (PF4J)",
