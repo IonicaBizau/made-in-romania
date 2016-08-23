@@ -23,6 +23,7 @@
  - [PHP](#php)
  - [Python](#python)
  - [Ruby](#ruby)
+ - [Rust](#rust)
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
@@ -604,6 +605,11 @@
 2 | [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 2 | [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
 1 | [@chalmagean](https://github.com/chalmagean)/[**git_feature**](https://github.com/chalmagean/git_feature) | Converts an issue title or ticket number to a pipeable branch name |
+### <a name="rust"></a> Rust
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+8 | [@zakkor](https://github.com/zakkor)/[**ricem**](https://github.com/zakkor/ricem) | A lightweight, automatic Linux dotfile manager |
+5 | [@zakkor](https://github.com/zakkor)/[**rust-sfml-rocket**](https://github.com/zakkor/rust-sfml-rocket) | Rocket is a little game written in Rust, using the Rust-SFML library |
 ### <a name="scala"></a> Scala
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
