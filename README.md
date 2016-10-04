@@ -597,6 +597,7 @@
 4 | [@TBD](https://github.com/TBD)/[**smarty**](https://github.com/TBD/smarty) | info noise sweeper |
 3 | [@ihoka](https://github.com/ihoka)/[**encoding-dot-com**](https://github.com/ihoka/encoding-dot-com) | Ruby library to wrap the Encoding.com API |
 3 | [@miphe](https://github.com/miphe)/[**x-ruby-assignment**](https://github.com/miphe/x-ruby-assignment) | Ruby assignment for front-end ruby developers |
+3 | [@shuriu](https://github.com/shuriu)/[**basher**](https://github.com/shuriu/basher) | Small CLI text game that tests your typing speed. |
 2 | [@TBD](https://github.com/TBD)/[**alfred-extensions**](https://github.com/TBD/alfred-extensions) | TBD's Alfred App Extensions | [:arrow_upper_right:](http://plugins.ro)
 2 | [@andrei4002](https://github.com/andrei4002)/[**facebook-buttons**](https://github.com/andrei4002/facebook-buttons) | Facebook buttons made using Compass/SCSS |
 2 | [@andrei4002](https://github.com/andrei4002)/[**plastic-buttons**](https://github.com/andrei4002/plastic-buttons) |  |
