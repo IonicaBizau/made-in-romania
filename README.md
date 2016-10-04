@@ -587,6 +587,7 @@
 9 | [@viseztrance](https://github.com/viseztrance)/[**website_screenshot**](https://github.com/viseztrance/website_screenshot) | Takes screenshots of websites |
 8 | [@icebreaker](https://github.com/icebreaker)/[**sniknej**](https://github.com/icebreaker/sniknej) |  Sniknej is a standalone front-end for Jenkins. |
 6 | [@sergiutruta](https://github.com/sergiutruta)/[**polyglot**](https://github.com/sergiutruta/polyglot) | simple localization plugin for rails application, based on yml files | [:arrow_upper_right:](http://akasha-labs.ro/polyglot)
+6 | [@shuriu](https://github.com/shuriu)/[**nrb**](https://github.com/shuriu/nrb) | Ninja Ruby scripts with easy persistence for your experimenting needs. |
 5 | [@cristianbica](https://github.com/cristianbica)/[**rails-bootstrap-boil…**](https://github.com/cristianbica/rails-bootstrap-boilerplate) | Template rails app with bootstrap, devise, cancan |
 5 | [@viseztrance](https://github.com/viseztrance)/[**website_screenshot_s…**](https://github.com/viseztrance/website_screenshot_service) |  |
 5 | [@ihoka](https://github.com/ihoka)/[**friendly-attributes**](https://github.com/ihoka/friendly-attributes) | Extend your ActiveRecord models with attributes dynamically, without any schema migrations. | [:arrow_upper_right:](http://github.com/ihoka/friendly-attributes)
