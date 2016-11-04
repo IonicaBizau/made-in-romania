@@ -194,13 +194,13 @@
 451 | [@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo) | Micro Java Web Framework: | [:arrow_upper_right:](http://pippo.ro)
 440 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
 363 | [@decebals](https://github.com/pf4j)/[**pf4j**](https://github.com/decebals/pf4j) | Plugin Framework for Java (PF4J) |
-209 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
-88 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
-64 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
+280 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
+110 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
+67 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
 55 | [@rombert](https://github.com/rombert)/[**desktop-maven-notifi…**](https://github.com/rombert/desktop-maven-notifier) | Desktop Notifier for Maven |
 36 | [@eugenp](https://github.com/eugenp)/[**spring-security-oaut…**](https://github.com/eugenp/spring-security-oauth) |  |
 34 | [@eugenp](https://github.com/eugenp)/[**spring-security-regi…**](https://github.com/eugenp/spring-security-registration) |  |
-24 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
+67 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
 21 | [@rombert](https://github.com/rombert)/[**Maven-Recipe--RPM-Pa…**](https://github.com/rombert/Maven-Recipe--RPM-Package) | Maven Recipe: RPM Package | [:arrow_upper_right:](http://rombertw.wordpress.com/2010/05/20/maven-recipe-delivering-applications-as-rpms/)
 19 | [@octa-george](https://github.com/octa-george)/[**Android-GreenDao-Sam…**](https://github.com/octa-george/Android-GreenDao-Sample) | working with data stored in SQLite using greenDao |
 18 | [@rcosnita](https://github.com/rcosnita)/[**eCommerce-RBAC**](https://github.com/rcosnita/eCommerce-RBAC) | This project intends to provide a security system implementation fully compliant with RBAC standard. This security system is modeled starting from eCommerce applications security requirements. |
@@ -213,7 +213,7 @@
 11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**University-Managemen…**](https://github.com/cosminstefanxp/University-Management-System) | The project is a huge one and consists of a university management system, that handles everything from user-management (students/teachers/secretaries), to curriculum management (adding/editing/deleting subjects, teachers, teaching activities), schedule management, exam scheduling, grading system.  |
 10 | [@eugenp](https://github.com/eugenp)/[**java-stackexchange**](https://github.com/eugenp/java-stackexchange) | Java Stackexchange 2.1 API |
 10 | [@rombert](https://github.com/rombert)/[**Maven-Recipe---GWT-d…**](https://github.com/rombert/Maven-Recipe---GWT-development-profile) | Sample code for http://rombertw.wordpress.com/2011/03/05… | [:arrow_upper_right:](http://rombertw.wordpress.com/2011/03/05/maven-recipe-gwt-development-profile/)
-10 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
+17 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
 8 | [@eugenp](https://github.com/eugenp)/[**selenium**](https://github.com/eugenp/selenium) | selenium |
 6 | [@Murii](https://github.com/Murii)/[**Tilo-game-framework**](https://github.com/Murii/Tilo-game-framework) | Tilo is a game framework inspired by Love made in Libgdx which can run on desktop,android and ios. |
 6 | [@kovacshuni](https://github.com/kovacshuni)/[**koauth-samples**](https://github.com/kovacshuni/koauth-samples) | Example applications for how to use the KOAuth library. |
