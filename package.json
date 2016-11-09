@@ -1360,6 +1360,12 @@
               "[@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong)",
               "the classic Pong game",
               ""
+            ],
+            [
+              "1",
+              "[@csoroiu](https://github.com/csoroiu)/[**lambdamatchers**](https://github.com/csoroiu/lambdamatchers)",
+              "This library implements some hamcrest matchers usable with Java 8 and a set of utility functions built on top of them.",
+              ""
             ]
           ]
         }
