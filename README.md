@@ -246,6 +246,7 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
+1 | [@@csoroiu](https://github.com/csoroiu)/[**lambdamatchers**](https://github.com/csoroiu/lambdamatchers) | This library implements some hamcrest matchers usable with Java 8 and a set of utility functions built on top of them |
 ### <a name="csharp"></a> C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
