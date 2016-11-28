@@ -361,15 +361,15 @@
 ### <a name="objective-c"></a> Objective-C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1032 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
-550 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
-392 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
-252 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
-99 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
-60 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
-55 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
+1097 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
+574 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
+394 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
+255 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
+108 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
+65 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
+58 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
+52 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
 47 | [@zssz](https://github.com/zssz)/[**IZGrowlManager**](https://github.com/zssz/IZGrowlManager) | Pop up "Growl" Notifications in your iPhone app. |
-36 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
 27 | [@adig](https://github.com/adig)/[**RemoteImageView**](https://github.com/adig/RemoteImageView) | Easy to use, fast and configurable replacement for UIImageView that takes care of loading remote pictures |
 21 | [@zssz](https://github.com/zssz)/[**IZManagedObjectConte…**](https://github.com/zssz/IZManagedObjectContext) | NSManagedObjectContext subclass. Extending it with asynchronous fetch feature. |
 14 | [@sebyddd](https://github.com/sebyddd)/[**WWDC2015-Submission**](https://github.com/sebyddd/WWDC2015-Submission) | My WWDC 2015 Scholarship Submission |
