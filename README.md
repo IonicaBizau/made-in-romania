@@ -1,7 +1,7 @@
 
 # Made in Romania
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Downloads](https://img.shields.io/npm/dt/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Downloads](https://img.shields.io/npm/dt/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of cool projects made in Romania.
 
@@ -23,6 +23,7 @@
  - [PHP](#php)
  - [Python](#python)
  - [Ruby](#ruby)
+ - [Rust](#rust)
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
@@ -196,14 +197,21 @@
 209 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
 88 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
 64 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
+545 | [@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo) | Micro Java Web Framework: | [:arrow_upper_right:](http://pippo.ro)
+479 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
+425 | [@decebals](https://github.com/pf4j)/[**pf4j**](https://github.com/decebals/pf4j) | Plugin Framework for Java (PF4J) |
+310 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
+116 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
+69 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
 55 | [@rombert](https://github.com/rombert)/[**desktop-maven-notifi…**](https://github.com/rombert/desktop-maven-notifier) | Desktop Notifier for Maven |
 36 | [@eugenp](https://github.com/eugenp)/[**spring-security-oaut…**](https://github.com/eugenp/spring-security-oauth) |  |
 34 | [@eugenp](https://github.com/eugenp)/[**spring-security-regi…**](https://github.com/eugenp/spring-security-registration) |  |
-24 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
+67 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
 21 | [@rombert](https://github.com/rombert)/[**Maven-Recipe--RPM-Pa…**](https://github.com/rombert/Maven-Recipe--RPM-Package) | Maven Recipe: RPM Package | [:arrow_upper_right:](http://rombertw.wordpress.com/2010/05/20/maven-recipe-delivering-applications-as-rpms/)
 19 | [@octa-george](https://github.com/octa-george)/[**Android-GreenDao-Sam…**](https://github.com/octa-george/Android-GreenDao-Sample) | working with data stored in SQLite using greenDao |
 18 | [@rcosnita](https://github.com/rcosnita)/[**eCommerce-RBAC**](https://github.com/rcosnita/eCommerce-RBAC) | This project intends to provide a security system implementation fully compliant with RBAC standard. This security system is modeled starting from eCommerce applications security requirements. |
 16 | [@MihaiBalint](https://github.com/MihaiBalint)/[**TimisoaraPublicTrans…**](https://github.com/MihaiBalint/TimisoaraPublicTransport) | An Android App that scrapes public transport information (times/connections) and shows it on your Android. | [:arrow_upper_right:](http://mihaibalint.github.com/TimisoaraPublicTransport)
+16 | [@adrcotfas](https://github.com/adrcotfas)/[**Goodtime**](http://github.com/adrcotfas/Goodtime) | Productivity app for Android | [:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 15 | [@eugenp](https://github.com/eugenp)/[**reddit-app**](https://github.com/eugenp/reddit-app) |  |
 15 | [@devsprint](https://github.com/devsprint)/[**jersey-netty-contain…**](https://github.com/devsprint/jersey-netty-container) | Netty based container implementation for Jersey |
 11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**Restaurant-Table-Ord…**](https://github.com/cosminstefanxp/Restaurant-Table-Order-Management-Demo) | The project consists in an Android application that can be used by employees in a restaurant to handle the clients, their orders and can help them easily find free tables or place orders. This is only a demo application, created mainly for proof of proper user-mobile interaction. |
@@ -211,7 +219,7 @@
 11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**University-Managemen…**](https://github.com/cosminstefanxp/University-Management-System) | The project is a huge one and consists of a university management system, that handles everything from user-management (students/teachers/secretaries), to curriculum management (adding/editing/deleting subjects, teachers, teaching activities), schedule management, exam scheduling, grading system.  |
 10 | [@eugenp](https://github.com/eugenp)/[**java-stackexchange**](https://github.com/eugenp/java-stackexchange) | Java Stackexchange 2.1 API |
 10 | [@rombert](https://github.com/rombert)/[**Maven-Recipe---GWT-d…**](https://github.com/rombert/Maven-Recipe---GWT-development-profile) | Sample code for http://rombertw.wordpress.com/2011/03/05… | [:arrow_upper_right:](http://rombertw.wordpress.com/2011/03/05/maven-recipe-gwt-development-profile/)
-10 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
+17 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
 8 | [@eugenp](https://github.com/eugenp)/[**selenium**](https://github.com/eugenp/selenium) | selenium |
 6 | [@Murii](https://github.com/Murii)/[**Tilo-game-framework**](https://github.com/Murii/Tilo-game-framework) | Tilo is a game framework inspired by Love made in Libgdx which can run on desktop,android and ios. |
 6 | [@kovacshuni](https://github.com/kovacshuni)/[**koauth-samples**](https://github.com/kovacshuni/koauth-samples) | Example applications for how to use the KOAuth library. |
@@ -244,6 +252,7 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
+1 | [@@csoroiu](https://github.com/csoroiu)/[**lambdamatchers**](https://github.com/csoroiu/lambdamatchers) | This library implements some hamcrest matchers usable with Java 8 and a set of utility functions built on top of them |
 ### <a name="csharp"></a> C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -358,15 +367,15 @@
 ### <a name="objective-c"></a> Objective-C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1032 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
-550 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
-392 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
-252 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
-99 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
-60 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
-55 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
+1097 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
+574 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
+394 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
+255 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
+108 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
+65 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
+58 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
+52 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
 47 | [@zssz](https://github.com/zssz)/[**IZGrowlManager**](https://github.com/zssz/IZGrowlManager) | Pop up "Growl" Notifications in your iPhone app. |
-36 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
 27 | [@adig](https://github.com/adig)/[**RemoteImageView**](https://github.com/adig/RemoteImageView) | Easy to use, fast and configurable replacement for UIImageView that takes care of loading remote pictures |
 21 | [@zssz](https://github.com/zssz)/[**IZManagedObjectConte…**](https://github.com/zssz/IZManagedObjectContext) | NSManagedObjectContext subclass. Extending it with asynchronous fetch feature. |
 14 | [@sebyddd](https://github.com/sebyddd)/[**WWDC2015-Submission**](https://github.com/sebyddd/WWDC2015-Submission) | My WWDC 2015 Scholarship Submission |
@@ -422,7 +431,8 @@
 186 | [@scribu](https://github.com/scribu)/[**wp-scb-framework**](https://github.com/scribu/wp-scb-framework) | Utilities for speeding up WordPress plugin and theme development | [:arrow_upper_right:](https://github.com/scribu/wp-scb-framework/wiki)
 163 | [@tzyganu](https://github.com/tzyganu)/[**Switcher**](https://github.com/tzyganu/Switcher) | Configurable products switcher |
 121 | [@c10b10](https://github.com/c10b10)/[**wp-cli-deploy**](https://github.com/c10b10/wp-cli-deploy) | A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh. |
-117 | [@avenirer](https://github.com/avenirer)/[**CodeIgniter-MY_Model**](https://github.com/avenirer/CodeIgniter-MY_Model) | Base model (MY_Model) for the Codeigniter framework. |
+119 | [@avenirer](https://github.com/avenirer)/[**CodeIgniter-MY_Model**](https://github.com/avenirer/CodeIgniter-MY_Model) | Base model (MY_Model) for the Codeigniter framework. |
+112 | [@tabacitu](https://github.com/tabacitu)/[**BackpackForLaravel**](https://github.com/Laravel-Backpack/CRUD) | Admin panels the right way in Laravel. Needs [Backpack\Base](https://github.com/Laravel-Backpack/Base) to be installed. | [:arrow_upper_right:](http://backpackforlaravel.com)
 111 | [@scribu](https://github.com/scribu)/[**wp-phptidy**](https://github.com/scribu/wp-phptidy) | Automatically format PHP code to meet the WordPress Coding Standards | [:arrow_upper_right:](http://magp.ie/2011/01/10/tidy-and-format-your-php-and-meet-wordpress-standards-on-coda-and-textwrangler/)
 103 | [@scribu](https://github.com/scribu)/[**wp-query-multiple-ta…**](https://github.com/scribu/wp-query-multiple-taxonomies) | WordPress plugin for allowing advanced taxonomy queries. | [:arrow_upper_right:](http://wordpress.org/plugins/query-multiple-taxonomies/)
 100 | [@filipcte](https://github.com/filipcte)/[**jobberbase**](https://github.com/filipcte/jobberbase) |   Jobberbase is open-source job board software  http://www.jobberbase.com |
@@ -585,6 +595,7 @@
 9 | [@viseztrance](https://github.com/viseztrance)/[**website_screenshot**](https://github.com/viseztrance/website_screenshot) | Takes screenshots of websites |
 8 | [@icebreaker](https://github.com/icebreaker)/[**sniknej**](https://github.com/icebreaker/sniknej) |  Sniknej is a standalone front-end for Jenkins. |
 6 | [@sergiutruta](https://github.com/sergiutruta)/[**polyglot**](https://github.com/sergiutruta/polyglot) | simple localization plugin for rails application, based on yml files | [:arrow_upper_right:](http://akasha-labs.ro/polyglot)
+6 | [@shuriu](https://github.com/shuriu)/[**nrb**](https://github.com/shuriu/nrb) | Ninja Ruby scripts with easy persistence for your experimenting needs. |
 5 | [@cristianbica](https://github.com/cristianbica)/[**rails-bootstrap-boil…**](https://github.com/cristianbica/rails-bootstrap-boilerplate) | Template rails app with bootstrap, devise, cancan |
 5 | [@viseztrance](https://github.com/viseztrance)/[**website_screenshot_s…**](https://github.com/viseztrance/website_screenshot_service) |  |
 5 | [@ihoka](https://github.com/ihoka)/[**friendly-attributes**](https://github.com/ihoka/friendly-attributes) | Extend your ActiveRecord models with attributes dynamically, without any schema migrations. | [:arrow_upper_right:](http://github.com/ihoka/friendly-attributes)
@@ -595,6 +606,7 @@
 4 | [@TBD](https://github.com/TBD)/[**smarty**](https://github.com/TBD/smarty) | info noise sweeper |
 3 | [@ihoka](https://github.com/ihoka)/[**encoding-dot-com**](https://github.com/ihoka/encoding-dot-com) | Ruby library to wrap the Encoding.com API |
 3 | [@miphe](https://github.com/miphe)/[**x-ruby-assignment**](https://github.com/miphe/x-ruby-assignment) | Ruby assignment for front-end ruby developers |
+3 | [@shuriu](https://github.com/shuriu)/[**basher**](https://github.com/shuriu/basher) | Small CLI text game that tests your typing speed. |
 2 | [@TBD](https://github.com/TBD)/[**alfred-extensions**](https://github.com/TBD/alfred-extensions) | TBD's Alfred App Extensions | [:arrow_upper_right:](http://plugins.ro)
 2 | [@andrei4002](https://github.com/andrei4002)/[**facebook-buttons**](https://github.com/andrei4002/facebook-buttons) | Facebook buttons made using Compass/SCSS |
 2 | [@andrei4002](https://github.com/andrei4002)/[**plastic-buttons**](https://github.com/andrei4002/plastic-buttons) |  |
@@ -602,6 +614,12 @@
 2 | [@cristianbica](https://github.com/cristianbica)/[**active_job-query**](https://github.com/cristianbica/active_job-query) | ActiveJob Query API |
 2 | [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 2 | [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
+1 | [@chalmagean](https://github.com/chalmagean)/[**git_feature**](https://github.com/chalmagean/git_feature) | Converts an issue title or ticket number to a pipeable branch name |
+### <a name="rust"></a> Rust
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+8 | [@zakkor](https://github.com/zakkor)/[**ricem**](https://github.com/zakkor/ricem) | A lightweight, automatic Linux dotfile manager |
+5 | [@zakkor](https://github.com/zakkor)/[**rust-sfml-rocket**](https://github.com/zakkor/rust-sfml-rocket) | Rocket is a little game written in Rust, using the Rust-SFML library |
 ### <a name="scala"></a> Scala
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -612,6 +630,7 @@
 41 | [@imq](https://github.com/imq)/[**linuximq**](https://github.com/imq/linuximq) | Pseudo-driver for the intermediate queue device. |
 11 | [@noxtras](https://github.com/noxtras)/[**bashserver**](https://github.com/noxtras/bashserver) | Bash web server with the use of netcat. It supports file downloads, it servers static html, PHP, Python and binary files with arguments (GET). It checks for 404 errors and it keeps a server log. |
 11 | [@iugamarian](https://github.com/iugamarian)/[**raspberrypisetup**](https://github.com/iugamarian/raspberrypisetup) | Setup scripts to personalize Raspbian and Arch for my needs |
+6 | [@atenie](https://github.com/atenie)/[**tomato-pie**](https://github.com/atenie/tomato-pie) | A shell Pomodoro timer |
 3 | [@StancuFlorin](https://github.com/StancuFlorin)/[**Apache-Helper**](https://github.com/StancuFlorin/Apache-Helper) | Helper code for creating new sites and change their default DocumentRoot. |
 ### <a name="swift"></a> Swift
 :star2: | Name | Description | 🌍
@@ -652,6 +671,16 @@
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
+
 ## :sparkles: Related
 
  - [`made-in-brazil`](https://github.com/IonicaBizau/made-in-brazil#readme)—A list of neat projects made in Brazil.
@@ -662,6 +691,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
