@@ -1,7 +1,7 @@
 
 # Made in Romania
 
- [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Downloads](https://img.shields.io/npm/dt/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania) [![Downloads](https://img.shields.io/npm/dt/made-in-romania.svg)](https://www.npmjs.com/package/made-in-romania)
 
 > A list of cool projects made in Romania.
 
@@ -31,7 +31,6 @@
  - [VimL](#viml)
  - [AutoHotkey](#autohotkey)
  - [D](#d)
-
 ### <a name="javascript"></a> JavaScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -190,23 +189,17 @@
 ### <a name="java"></a> Java
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-521 | [@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo) | Micro Java Web Framework | [:arrow_upper_right:](http://pippo.ro) |
 472 | [@alexo](https://github.com/alexo)/[**wro4j**](https://github.com/alexo/wro4j) | New project location is:https://github.com/wro4j/wro4j |
+451 | [@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo) | Micro Java Web Framework: | [:arrow_upper_right:](http://pippo.ro)
 440 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
-416 | [@decebals](https://github.com/decebals)/[**pf4j**](https://github.com/decebals/pf4j) | Plugin Framework for Java (PF4J) |
+363 | [@decebals](https://github.com/pf4j)/[**pf4j**](https://github.com/decebals/pf4j) | Plugin Framework for Java (PF4J) |
 209 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
 88 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
 64 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
-545 | [@decebals](https://github.com/decebals)/[**pippo**](https://github.com/decebals/pippo) | Micro Java Web Framework: | [:arrow_upper_right:](http://pippo.ro)
-479 | [@eugenp](https://github.com/eugenp)/[**REST-With-Spring**](https://github.com/eugenp/REST-With-Spring) | The "REST With Spring" Classes: | [:arrow_upper_right:](http://bit.ly/restwithspring)
-425 | [@decebals](https://github.com/pf4j)/[**pf4j**](https://github.com/decebals/pf4j) | Plugin Framework for Java (PF4J) |
-310 | [@vladmihalcea](https://github.com/vladmihalcea)/[**flexy-pool**](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. |
-116 | [@vladmihalcea](https://github.com/vladmihalcea)/[**hibernate-master-cla…**](https://github.com/vladmihalcea/hibernate-master-class) | Hibernate Master Class is an advance course of one of the most popular JPA implementation |
-69 | [@vladmihalcea](https://github.com/vladmihalcea)/[**vladmihalcea.wordpre…**](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) | Source code for vladmihalcea.com | [:arrow_upper_right:](http://vladmihalcea.com/)
 55 | [@rombert](https://github.com/rombert)/[**desktop-maven-notifi…**](https://github.com/rombert/desktop-maven-notifier) | Desktop Notifier for Maven |
 36 | [@eugenp](https://github.com/eugenp)/[**spring-security-oaut…**](https://github.com/eugenp/spring-security-oauth) |  |
 34 | [@eugenp](https://github.com/eugenp)/[**spring-security-regi…**](https://github.com/eugenp/spring-security-registration) |  |
-67 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
+24 | [@vladmihalcea](https://github.com/vladmihalcea)/[**high-performance-jav…**](https://github.com/vladmihalcea/high-performance-java-persistence) | The High-Performance Java Persistence book code examples |
 21 | [@rombert](https://github.com/rombert)/[**Maven-Recipe--RPM-Pa…**](https://github.com/rombert/Maven-Recipe--RPM-Package) | Maven Recipe: RPM Package | [:arrow_upper_right:](http://rombertw.wordpress.com/2010/05/20/maven-recipe-delivering-applications-as-rpms/)
 19 | [@octa-george](https://github.com/octa-george)/[**Android-GreenDao-Sam…**](https://github.com/octa-george/Android-GreenDao-Sample) | working with data stored in SQLite using greenDao |
 18 | [@rcosnita](https://github.com/rcosnita)/[**eCommerce-RBAC**](https://github.com/rcosnita/eCommerce-RBAC) | This project intends to provide a security system implementation fully compliant with RBAC standard. This security system is modeled starting from eCommerce applications security requirements. |
@@ -219,7 +212,7 @@
 11 | [@cosminstefanxp](https://github.com/cosminstefanxp)/[**University-Managemen…**](https://github.com/cosminstefanxp/University-Management-System) | The project is a huge one and consists of a university management system, that handles everything from user-management (students/teachers/secretaries), to curriculum management (adding/editing/deleting subjects, teachers, teaching activities), schedule management, exam scheduling, grading system.  |
 10 | [@eugenp](https://github.com/eugenp)/[**java-stackexchange**](https://github.com/eugenp/java-stackexchange) | Java Stackexchange 2.1 API |
 10 | [@rombert](https://github.com/rombert)/[**Maven-Recipe---GWT-d…**](https://github.com/rombert/Maven-Recipe---GWT-development-profile) | Sample code for http://rombertw.wordpress.com/2011/03/05… | [:arrow_upper_right:](http://rombertw.wordpress.com/2011/03/05/maven-recipe-gwt-development-profile/)
-17 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
+10 | [@vladmihalcea](https://github.com/vladmihalcea)/[**db-util**](https://github.com/vladmihalcea/db-util) | Db Utilities |
 8 | [@eugenp](https://github.com/eugenp)/[**selenium**](https://github.com/eugenp/selenium) | selenium |
 6 | [@Murii](https://github.com/Murii)/[**Tilo-game-framework**](https://github.com/Murii/Tilo-game-framework) | Tilo is a game framework inspired by Love made in Libgdx which can run on desktop,android and ios. |
 6 | [@kovacshuni](https://github.com/kovacshuni)/[**koauth-samples**](https://github.com/kovacshuni/koauth-samples) | Example applications for how to use the KOAuth library. |
@@ -252,7 +245,7 @@
 2 | [@BoldijarPaul](https://github.com/BoldijarPaul)/[**sda-android-app**](https://github.com/BoldijarPaul/sda-android-app) | Aplicatie android cu tabele de dispersie prin liste inlantuite. |
 2 | [@adreghiciu](https://github.com/adreghiciu)/[**org.ops4j.pax.sham**](https://github.com/adreghiciu/org.ops4j.pax.sham) | Pax Sham (OSGi Mocking) |
 2 | [@mihneadb](https://github.com/mihneadb)/[**Pong**](https://github.com/mihneadb/Pong) | the classic Pong game |
-1 | [@@csoroiu](https://github.com/csoroiu)/[**lambdamatchers**](https://github.com/csoroiu/lambdamatchers) | This library implements some hamcrest matchers usable with Java 8 and a set of utility functions built on top of them |
+1 | [@csoroiu](https://github.com/csoroiu)/[**lambdamatchers**](https://github.com/csoroiu/lambdamatchers) | This library implements some hamcrest matchers usable with Java 8 and a set of utility functions built on top of them. |
 ### <a name="csharp"></a> C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -367,15 +360,15 @@
 ### <a name="objective-c"></a> Objective-C
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1097 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
-574 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
-394 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
-255 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
-108 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
-65 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
-58 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
-52 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
+1032 | [@sebyddd](https://github.com/sebyddd)/[**SDVersion**](https://github.com/sebyddd/SDVersion) | :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. |
+550 | [@rolandleth](https://github.com/rolandleth)/[**LTHPasscodeViewContr…**](https://github.com/rolandleth/LTHPasscodeViewController) | iOS 7 style Passcode Lock |
+392 | [@bpoplauschi](https://github.com/bpoplauschi)/[**BPForms**](https://github.com/bpoplauschi/BPForms) | Dynamic forms for iPhone/iPad - iOS 6, 7 and later |
+252 | [@sebyddd](https://github.com/sebyddd)/[**SDFeedParser**](https://github.com/sebyddd/SDFeedParser) | :rocket: The easiest and most effective way to parse your Wordpress blog's feed on iOS. |
+99 | [@sebyddd](https://github.com/sebyddd)/[**SDRecordButton**](https://github.com/sebyddd/SDRecordButton) | :video_camera: A handy UIButton subclass, meant to be used as a recording button. |
+60 | [@alexbumbu](https://github.com/alexbumbu)/[**ABMenuTableViewCell**](https://github.com/alexbumbu/ABMenuTableViewCell) | Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.  |
+55 | [@rolandleth](https://github.com/rolandleth)/[**LTHMonthYearPickerVi…**](https://github.com/rolandleth/LTHMonthYearPickerView) | Simple to use month & year picker view |
 47 | [@zssz](https://github.com/zssz)/[**IZGrowlManager**](https://github.com/zssz/IZGrowlManager) | Pop up "Growl" Notifications in your iPhone app. |
+36 | [@cyupa](https://github.com/cyupa)/[**JenkinsCI-iOS**](https://github.com/cyupa/JenkinsCI-iOS) | A Jenkins job setup for your XCode project. |
 27 | [@adig](https://github.com/adig)/[**RemoteImageView**](https://github.com/adig/RemoteImageView) | Easy to use, fast and configurable replacement for UIImageView that takes care of loading remote pictures |
 21 | [@zssz](https://github.com/zssz)/[**IZManagedObjectConte…**](https://github.com/zssz/IZManagedObjectContext) | NSManagedObjectContext subclass. Extending it with asynchronous fetch feature. |
 14 | [@sebyddd](https://github.com/sebyddd)/[**WWDC2015-Submission**](https://github.com/sebyddd/WWDC2015-Submission) | My WWDC 2015 Scholarship Submission |
@@ -671,14 +664,22 @@
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :moneybag: Donations
+## :sparkling_heart: Support my projects
 
-Another way to support the development of my open-source modules is
-to [set up a recurring donation, via Patreon][patreon]. :rocket:
+I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously,
+this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
 
-[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
+
+ - Starring and sharing the projects you like :rocket:
+ - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+ - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
+
+    ![](https://i.imgur.com/z6OQI95.png)
 
 Thanks! :heart:
+
 
 
 ## :sparkles: Related
@@ -686,16 +687,20 @@ Thanks! :heart:
  - [`made-in-brazil`](https://github.com/IonicaBizau/made-in-brazil#readme)—A list of neat projects made in Brazil.
 
 
-
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
+[badge_patreon]: http://ionicabizau.github.io/badges/patreon.svg
+[badge_amazon]: http://ionicabizau.github.io/badges/amazon.svg
+[badge_paypal]: http://ionicabizau.github.io/badges/paypal.svg
+[badge_paypal_donate]: http://ionicabizau.github.io/badges/paypal_donate.svg
 [patreon]: https://www.patreon.com/ionicabizau
+[amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2016#license-mit
-[website]: http://ionicabizau.net
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2016#license-mit
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
