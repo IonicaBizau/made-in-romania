@@ -31,6 +31,7 @@
  - [VimL](#viml)
  - [AutoHotkey](#autohotkey)
  - [D](#d)
+
 ### <a name="javascript"></a> JavaScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -685,6 +686,7 @@ Thanks! :heart:
 ## :sparkles: Related
 
  - [`made-in-brazil`](https://github.com/IonicaBizau/made-in-brazil#readme)—A list of neat projects made in Brazil.
+
 
 
 ## :scroll: License
