@@ -2871,7 +2871,13 @@
               "[@scribu](https://github.com/scribu)/[**wp-filter-email-noti…**](https://github.com/scribu/wp-filter-email-notifications)",
               "",
               "[:arrow_upper_right:](http://wordpress.org/extend/plugins/filter-email-notifications/)"
-            ]
+            ],
+            [
+              "0",
+              "[@crlcu](https://github.com/crlcu)/[**scheduler**](https://github.com/crlcu/scheduler)",
+              "Manage cron jobs from a web interface",
+              "[:arrow_upper_right:](http://app.tasks-scheduler.com/)"
+            ],
           ]
         }
       },
