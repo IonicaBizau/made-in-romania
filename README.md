@@ -504,6 +504,7 @@
 2 | [@psychoticmeow](https://github.com/psychoticmeow)/[**nbsp.io**](https://github.com/psychoticmeow/nbsp.io) |  |
 2 | [@palcu](https://github.com/palcu)/[**vms**](https://github.com/palcu/vms) | Volunteer Management System | [:arrow_upper_right:](http://voluntari.cicvalcea.ro/)
 2 | [@scribu](https://github.com/scribu)/[**wp-filter-email-noti…**](https://github.com/scribu/wp-filter-email-notifications) |  | [:arrow_upper_right:](http://wordpress.org/extend/plugins/filter-email-notifications/)
+0 | [@crlcu](https://github.com/crlcu)/[**scheduler**](https://github.com/crlcu/scheduler) | Manage cron jobs from a web interface | [:arrow_upper_right:](http://app.tasks-scheduler.com/)
 ### <a name="python"></a> Python
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
