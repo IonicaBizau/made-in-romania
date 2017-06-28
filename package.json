@@ -82,7 +82,8 @@
           "[TeX](#tex)",
           "[VimL](#viml)",
           "[AutoHotkey](#autohotkey)",
-          "[D](#d)"
+          "[D](#d)",
+          "[Language agnostic](#language-agnostic)"
         ]
       },
       {
@@ -3784,6 +3785,25 @@
               "memcached client for the d programming language",
               ""
             ]
+          ]
+        }
+      },
+      {
+        "h3": "<a name=\"language-agnostic\"></a> Language agnostic"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            "2",
+            "[@vimishor](https://github.com/vimishor)/[**cnp-spec**](https://github.com/vimishor/cnp-spec)",
+            "Personal Identification Number (C.N.P.) Specification",
+            ""
           ]
         }
       }
