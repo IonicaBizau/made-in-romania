@@ -31,6 +31,7 @@
  - [VimL](#viml)
  - [AutoHotkey](#autohotkey)
  - [D](#d)
+ - [Language agnostic](#language-agnostic)
 
 ### <a name="javascript"></a> JavaScript
 :star2: | Name | Description | 🌍
@@ -661,6 +662,10 @@
 6 | [@gedaiu](https://github.com/gedaiu)/[**crate.d**](https://github.com/gedaiu/crate.d) | a D MVC framework |
 4 | [@gedaiu](https://github.com/gedaiu)/[**vibe.dav**](https://github.com/gedaiu/vibe.dav) | A library that adds DAV support to vibe.d |
 2 | [@TiberiuGal](https://github.com/TiberiuGal)/[**memcached4d**](https://github.com/TiberiuGal/memcached4d) | memcached client for the d programming language |
+### <a name="language-agnostic"></a> Language agnostic
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+2 | [@vimishor](https://github.com/vimishor)/[**cnp-spec**](https://github.com/vimishor/cnp-spec) | Personal Identification Number (C.N.P.) Specification |
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
