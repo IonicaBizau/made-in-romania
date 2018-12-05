@@ -2942,6 +2942,12 @@
               "Lock context manager implemented via redis SET NX EX and BLPOP.",
               "[:arrow_upper_right:](https://pypi.python.org/pypi/python-redis-lock)"
             ],
+	    [
+              "67",
+              "[@danielhrisca](https://github.com/danielhrisca)/[**asammdf**](https://github.com/danielhrisca/asammdf)",
+              "Fast Python parser and editor for MDF and MF4 files.",
+              "[:arrow_upper_right:](https://pypi.org/project/asammdf)"
+            ],
             [
               "57",
               "[@ionelmc](https://github.com/ionelmc)/[**django-monkey-team**](https://github.com/ionelmc/django-monkey-team)",
