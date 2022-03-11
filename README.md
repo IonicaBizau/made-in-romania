@@ -563,6 +563,7 @@
 <img src="https://img.shields.io/github/stars/arielpontes/xbuddies?color=black&label=%20">| [@arielpontes](https://github.com/arielpontes)/[**xbuddies**](https://github.com/arielpontes/xbuddies) | First xbuddies Rails app attempt |
 <img src="https://img.shields.io/github/stars/viseztrance/facebook_light?color=black&label=%20">| [@viseztrance](https://github.com/viseztrance)/[**facebook_light**](https://github.com/viseztrance/facebook_light) |  |
 <img src="https://img.shields.io/github/stars/chalmagean/git_feature?color=black&label=%20">| [@chalmagean](https://github.com/chalmagean)/[**git_feature**](https://github.com/chalmagean/git_feature) | Converts an issue title or ticket number to a pipeable branch name |
+<img src="https://img.shields.io/github/stars/avo-hq/avo?color=black&label=%20">| [@avo-hq](https://github.com/avo-hq)/[**avo**](https://github.com/avo-hq/avo) | Admin panel Rails framework that saves your time | [:arrow_upper_right:](https://avohq.io/)
 ### <a name="rust"></a> Rust
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
