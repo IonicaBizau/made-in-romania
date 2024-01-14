@@ -615,6 +615,7 @@
 ### <a name="language-agnostic"></a> Language agnostic
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+<img src="https://img.shields.io/github/stars/vxern/romanian?color=black&label=%20">| [@vxern](https://github.com/vxern)/[**romanian**](https://github.com/vxern/romanian) | A comprehensive list of resources to learn the Romanian language |
 <img src="https://img.shields.io/github/stars/vimishor/cnp-spec?color=black&label=%20">| [@vimishor](https://github.com/vimishor)/[**cnp-spec**](https://github.com/vimishor/cnp-spec) | Personal Identification Number (C.N.P.) Specification |
 
 ## :yum: How to contribute
